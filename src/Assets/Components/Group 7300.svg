@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="156" height="104" viewBox="0 0 156 104">
+  <defs>
+    <filter id="Rectangle_3031" x="0" y="31" width="156" height="73" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_7300" data-name="Group 7300" transform="translate(-787 -1000)">
+    <g id="Rectangle_3030" data-name="Rectangle 3030" transform="translate(790 1000)" fill="#fff" stroke="#d5dae8" stroke-width="1">
+      <rect width="150" height="28" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="149" height="27" rx="4.5" fill="none"/>
+    </g>
+    <g id="Group_7299" data-name="Group 7299">
+      <g transform="matrix(1, 0, 0, 1, 787, 1000)" filter="url(#Rectangle_3031)">
+        <g id="Rectangle_3031-2" data-name="Rectangle 3031" transform="translate(3 33)" fill="#fcfcfe" stroke="#d5dae8" stroke-width="1">
+          <rect width="150" height="67" rx="5" stroke="none"/>
+          <rect x="0.5" y="0.5" width="149" height="66" rx="4.5" fill="none"/>
+        </g>
+      </g>
+      <g id="Rectangle_3032" data-name="Rectangle 3032" transform="translate(801 1044)" fill="#fff" stroke="#bfc4d5" stroke-width="1">
+        <rect width="56" height="2" rx="1" stroke="none"/>
+        <rect x="0.5" y="0.5" width="55" height="1" rx="0.5" fill="none"/>
+      </g>
+      <g id="Rectangle_3035" data-name="Rectangle 3035" transform="translate(801 1073)" fill="#fff" stroke="#bfc4d5" stroke-width="1">
+        <rect width="114" height="2" rx="1" stroke="none"/>
+        <rect x="0.5" y="0.5" width="113" height="1" rx="0.5" fill="none"/>
+      </g>
+      <g id="Group_7298" data-name="Group 7298" transform="translate(0 -1)">
+        <g id="Rectangle_3037" data-name="Rectangle 3037" transform="translate(801 1088)" fill="#fff" stroke="#bfc4d5" stroke-width="1">
+          <rect width="56" height="2" rx="1" stroke="none"/>
+          <rect x="0.5" y="0.5" width="55" height="1" rx="0.5" fill="none"/>
+        </g>
+      </g>
+      <rect id="Rectangle_3040" data-name="Rectangle 3040" width="148" height="16" transform="translate(791 1051)" fill="#e7eaf4"/>
+      <g id="Rectangle_3033" data-name="Rectangle 3033" transform="translate(801 1058)" fill="#1e2e72" stroke="#646a86" stroke-width="1">
+        <rect width="56" height="2" rx="1" stroke="none"/>
+        <rect x="0.5" y="0.5" width="55" height="1" rx="0.5" fill="none"/>
+      </g>
+      <g id="Rectangle_3034" data-name="Rectangle 3034" transform="translate(863 1058)" fill="none" stroke="#646a86" stroke-width="1">
+        <rect width="22" height="2" rx="1" stroke="none"/>
+        <rect x="0.5" y="0.5" width="21" height="1" rx="0.5" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

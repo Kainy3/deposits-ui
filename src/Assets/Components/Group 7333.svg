@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="156" height="66" viewBox="0 0 156 66">
+  <defs>
+    <filter id="Rectangle_3031" x="0" y="15" width="156" height="34" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_7333" data-name="Group 7333" transform="translate(-787 -1016)">
+    <g transform="matrix(1, 0, 0, 1, 787, 1016)" filter="url(#Rectangle_3031)">
+      <g id="Rectangle_3031-2" data-name="Rectangle 3031" transform="translate(3 17)" fill="#fff" stroke="#d5dae8" stroke-width="1">
+        <rect width="150" height="28" rx="5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="149" height="27" rx="4.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Rectangle_3032" data-name="Rectangle 3032" transform="translate(790 1068)" fill="#bfc4d5" stroke="#bfc4d5" stroke-width="1">
+      <rect width="113" height="4" rx="1" stroke="none"/>
+      <rect x="0.5" y="0.5" width="112" height="3" rx="0.5" fill="none"/>
+    </g>
+    <g id="Rectangle_3045" data-name="Rectangle 3045" transform="translate(790 1078)" fill="#bfc4d5" stroke="#bfc4d5" stroke-width="1">
+      <rect width="56" height="4" rx="1" stroke="none"/>
+      <rect x="0.5" y="0.5" width="55" height="3" rx="0.5" fill="none"/>
+    </g>
+    <rect id="Rectangle_3046" data-name="Rectangle 3046" width="77" height="10" rx="4" transform="translate(790 1016)" fill="#798095"/>
+    <g id="Group_7316" data-name="Group 7316" transform="translate(932 1040) rotate(90)">
+      <path id="Path_9217" data-name="Path 9217" d="M0,0H12V12H0Z" transform="translate(1 2)" fill="none" opacity="0.12"/>
+      <path id="Path_9218" data-name="Path 9218" d="M14,10l-4,4V6Z" transform="translate(-5 -2)" fill="#bfc4d5"/>
+    </g>
+  </g>
+</svg>

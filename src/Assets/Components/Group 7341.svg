@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="156" height="34" viewBox="0 0 156 34">
+  <defs>
+    <filter id="Rectangle_3047" x="0" y="0" width="156" height="34" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_7341" data-name="Group 7341" transform="translate(-787 -1029)">
+    <g transform="matrix(1, 0, 0, 1, 787, 1029)" filter="url(#Rectangle_3047)">
+      <g id="Rectangle_3047-2" data-name="Rectangle 3047" transform="translate(3 2)" fill="#fff" stroke="#d5dae8" stroke-width="1">
+        <rect width="150" height="28" rx="5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="149" height="27" rx="4.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_7282" data-name="Group 7282" transform="translate(798.158 1039.592)">
+      <path id="Path_879" data-name="Path 879" d="M3432.78,3073.966a4.1,4.1,0,1,1-4.1-4.1A4.1,4.1,0,0,1,3432.78,3073.966Z" transform="translate(-3424.586 -3069.869)" fill="none" stroke="#798095" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line id="Line_724" data-name="Line 724" x1="2.97" y1="2.97" transform="translate(7.836 7.846)" fill="none" stroke="#798095" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+    <rect id="Rectangle_3048" data-name="Rectangle 3048" width="49" height="4" rx="2" transform="translate(820 1043)" fill="#d5dae8"/>
+  </g>
+</svg>

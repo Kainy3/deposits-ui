@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="179" height="40" viewBox="0 0 179 40">
+  <defs>
+    <filter id="Rectangle_3027" x="70" y="0" width="109" height="40" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.071"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_3028" x="0" y="0" width="52" height="40" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur-2"/>
+      <feFlood flood-opacity="0.071"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_7310" data-name="Group 7310" transform="translate(-782 -1027)">
+    <g id="Group_7292" data-name="Group 7292">
+      <g transform="matrix(1, 0, 0, 1, 782, 1027)" filter="url(#Rectangle_3027)">
+        <rect id="Rectangle_3027-2" data-name="Rectangle 3027" width="97" height="28" rx="14" transform="translate(76 4)" fill="#d5dae8"/>
+      </g>
+      <rect id="Rectangle_3029" data-name="Rectangle 3029" width="70" height="6" rx="3" transform="translate(872 1042)" fill="#798095"/>
+    </g>
+    <g id="Group_7293" data-name="Group 7293" transform="translate(7)">
+      <g transform="matrix(1, 0, 0, 1, 775, 1027)" filter="url(#Rectangle_3028)">
+        <rect id="Rectangle_3028-2" data-name="Rectangle 3028" width="40" height="28" rx="10" transform="translate(6 4)" fill="#646a86"/>
+      </g>
+      <text id="_99_" data-name="99+" transform="translate(789 1050)" fill="#fcfcfe" font-size="13" font-family="HeroNew-Medium, Hero New" font-weight="500"><tspan x="0" y="0">99+</tspan></text>
+    </g>
+  </g>
+</svg>

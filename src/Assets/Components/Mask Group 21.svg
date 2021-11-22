@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="165" height="127" viewBox="0 0 165 127">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_3066" data-name="Rectangle 3066" width="165" height="127" transform="translate(767 993)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <filter id="Rectangle_3031" x="2" y="23" width="162" height="117" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Mask_Group_21" data-name="Mask Group 21" transform="translate(-767 -993)" clip-path="url(#clip-path)">
+    <g id="Group_7325" data-name="Group 7325" transform="translate(-15 13)">
+      <g id="Group_7318" data-name="Group 7318" transform="translate(0 -26)">
+        <g id="Group_7299" data-name="Group 7299" transform="translate(790 1033)">
+          <g transform="matrix(1, 0, 0, 1, -8, -27)" filter="url(#Rectangle_3031)">
+            <g id="Rectangle_3031-2" data-name="Rectangle 3031" transform="translate(8 27)" fill="#fcfcfe" stroke="#d5dae8" stroke-width="1">
+              <path d="M5,0H145a5,5,0,0,1,5,5V105a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V5A5,5,0,0,1,5,0Z" stroke="none"/>
+              <path d="M5,.5H145A4.5,4.5,0,0,1,149.5,5v99a.5.5,0,0,1-.5.5H1a.5.5,0,0,1-.5-.5V5A4.5,4.5,0,0,1,5,.5Z" fill="none"/>
+            </g>
+          </g>
+          <g id="Group_7327" data-name="Group 7327" transform="translate(11 15.884)">
+            <rect id="Rectangle_3035" data-name="Rectangle 3035" width="100" height="3" rx="1" transform="translate(18 3.116)" fill="#bfc4d5"/>
+            <rect id="Rectangle_3065" data-name="Rectangle 3065" width="8" height="8" rx="4" transform="translate(0 0.116)" fill="#bfc4d5"/>
+          </g>
+          <g id="Group_7328" data-name="Group 7328" transform="translate(11 38.121)">
+            <rect id="Rectangle_3035-2" data-name="Rectangle 3035" width="100" height="3" rx="1" transform="translate(18 2.879)" fill="#bfc4d5"/>
+            <rect id="Rectangle_3065-2" data-name="Rectangle 3065" width="8" height="8" rx="4" transform="translate(0 -0.121)" fill="#bfc4d5"/>
+          </g>
+          <g id="Group_7329" data-name="Group 7329" transform="translate(11 60.358)">
+            <rect id="Rectangle_3035-3" data-name="Rectangle 3035" width="100" height="3" rx="1" transform="translate(18 2.642)" fill="#bfc4d5"/>
+            <rect id="Rectangle_3065-3" data-name="Rectangle 3065" width="8" height="8" rx="4" transform="translate(0 -0.358)" fill="#bfc4d5"/>
+          </g>
+          <g id="Group_7330" data-name="Group 7330" transform="translate(11 83.42)">
+            <rect id="Rectangle_3035-4" data-name="Rectangle 3035" width="100" height="3" rx="1" transform="translate(18 2.58)" fill="#bfc4d5"/>
+            <rect id="Rectangle_3065-4" data-name="Rectangle 3065" width="8" height="8" rx="4" transform="translate(0 -0.42)" fill="#bfc4d5"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_7320" data-name="Group 7320" transform="translate(15 -8)">
+        <rect id="Rectangle_3053" data-name="Rectangle 3053" width="29" height="19" rx="3" transform="translate(896 989)" fill="#d5dae8"/>
+        <g id="Group_7326" data-name="Group 7326" transform="translate(902 997.533)">
+          <g id="Rectangle_3054" data-name="Rectangle 3054" fill="#798095" stroke="#798095" stroke-width="1">
+            <rect width="3" height="3" rx="1.5" stroke="none"/>
+            <rect x="0.5" y="0.5" width="2" height="2" rx="1" fill="none"/>
+          </g>
+          <g id="Rectangle_3060" data-name="Rectangle 3060" transform="translate(7)" fill="#798095" stroke="#798095" stroke-width="1">
+            <rect width="3" height="3" rx="1.5" stroke="none"/>
+            <rect x="0.5" y="0.5" width="2" height="2" rx="1" fill="none"/>
+          </g>
+          <g id="Rectangle_3061" data-name="Rectangle 3061" transform="translate(14)" fill="#798095" stroke="#798095" stroke-width="1">
+            <rect width="3" height="3" rx="1.5" stroke="none"/>
+            <rect x="0.5" y="0.5" width="2" height="2" rx="1" fill="none"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="156" height="34" viewBox="0 0 156 34">
+  <defs>
+    <filter id="Rectangle_3090" x="0" y="0" width="156" height="34" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_7345" data-name="Group 7345" transform="translate(-787 -1029)">
+    <g transform="matrix(1, 0, 0, 1, 787, 1029)" filter="url(#Rectangle_3090)">
+      <g id="Rectangle_3090-2" data-name="Rectangle 3090" transform="translate(3 2)" fill="#fcfcfe" stroke="#646a86" stroke-width="1">
+        <rect width="150" height="28" rx="5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="149" height="27" rx="4.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Rectangle_3092" data-name="Rectangle 3092" transform="translate(817 1043)" fill="#d5dae8" stroke="#d5dae8" stroke-width="1">
+      <rect width="93" height="4" rx="2" stroke="none"/>
+      <rect x="0.5" y="0.5" width="92" height="3" rx="1.5" fill="none"/>
+    </g>
+    <g id="Group_7343" data-name="Group 7343" transform="translate(1972.625 235.75) rotate(90)">
+      <g id="Group_7280" data-name="Group 7280" transform="translate(807.25 1041.137)">
+        <line id="Line_720" data-name="Line 720" y1="4.547" x2="4.547" fill="none" stroke="#798095" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.8"/>
+      </g>
+      <g id="Group_7302" data-name="Group 7302" transform="translate(807.25 1041.137)">
+        <g id="Group_7301" data-name="Group 7301">
+          <line id="Line_720-2" data-name="Line 720" x1="4.547" y1="4.547" fill="none" stroke="#798095" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.8"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_7346" data-name="Group 7346" transform="translate(796 1036)">
+      <path id="Path_4002" data-name="Path 4002" d="M0,0H18V18H0Z" fill="none"/>
+      <path id="Path_4003" data-name="Path 4003" d="M7,12a5,5,0,1,1,5-5A5,5,0,0,1,7,12ZM6.5,9l3.535-3.536-.707-.707L6.5,7.586,5.087,6.171l-.707.707Z" transform="translate(2 2)" fill="#646a86"/>
+    </g>
+  </g>
+</svg>

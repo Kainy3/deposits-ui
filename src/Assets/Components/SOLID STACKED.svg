@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="183" height="48" viewBox="0 0 183 48">
+  <defs>
+    <filter id="Ellipse_341" x="0" y="0" width="48" height="48" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_341-2" x="61" y="0" width="48" height="48" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-2"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_341-3" x="86" y="0" width="48" height="48" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-3"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_341-4" x="110" y="0" width="48" height="48" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-4"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_341-5" x="135" y="0" width="48" height="48" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-5"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="SOLID_STACKED" data-name="SOLID STACKED" transform="translate(-495 -2088)">
+    <g id="Solid_avatar" data-name="Solid avatar" transform="translate(498 2090)">
+      <g transform="matrix(1, 0, 0, 1, -3, -2)" filter="url(#Ellipse_341)">
+        <g id="Ellipse_341-6" data-name="Ellipse 341" transform="translate(3 2)" fill="#646a86" stroke="#d5dae8" stroke-width="1">
+          <circle cx="21" cy="21" r="21" stroke="none"/>
+          <circle cx="21" cy="21" r="20.5" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_784" data-name="Group 784" transform="translate(12.568 12.568)">
+        <g id="Group_783" data-name="Group 783" transform="translate(3.646)">
+          <circle id="Ellipse_102" data-name="Ellipse 102" cx="4.786" cy="4.786" r="4.786" fill="none" stroke="#fcfcfe" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        </g>
+        <path id="Path_618" data-name="Path 618" d="M2500.567,3849.2h0a7.292,7.292,0,0,0-7.292-7.291H2491a7.292,7.292,0,0,0-7.292,7.291h0" transform="translate(-2483.704 -3832.335)" fill="none" stroke="#fcfcfe" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      </g>
+    </g>
+    <g id="solid_avatar-2" data-name="solid avatar" transform="translate(559 2090)">
+      <g transform="matrix(1, 0, 0, 1, -64, -2)" filter="url(#Ellipse_341-2)">
+        <g id="Ellipse_341-7" data-name="Ellipse 341" transform="translate(64 2)" fill="#646a86" stroke="#d5dae8" stroke-width="1">
+          <circle cx="21" cy="21" r="21" stroke="none"/>
+          <circle cx="21" cy="21" r="20.5" fill="none"/>
+        </g>
+      </g>
+      <text id="EA" transform="translate(12 26)" fill="#fcfcfe" font-size="14" font-family="HeroNew-Regular, Hero New"><tspan x="0" y="0">EA</tspan></text>
+    </g>
+    <g id="Group_5030" data-name="Group 5030" transform="translate(324 131)">
+      <g transform="matrix(1, 0, 0, 1, 171, 1957)" filter="url(#Ellipse_341-3)">
+        <g id="Ellipse_341-8" data-name="Ellipse 341" transform="translate(89 2)" fill="#9096aa" stroke="#d5dae8" stroke-width="1">
+          <circle cx="21" cy="21" r="21" stroke="none"/>
+          <circle cx="21" cy="21" r="20.5" fill="none"/>
+        </g>
+      </g>
+      <text id="KO" transform="translate(271 1985)" fill="#fcfcfe" font-size="14" font-family="HeroNew-Regular, Hero New"><tspan x="0" y="0">KO</tspan></text>
+    </g>
+    <g id="Group_5031" data-name="Group 5031" transform="translate(348 131)">
+      <g transform="matrix(1, 0, 0, 1, 147, 1957)" filter="url(#Ellipse_341-4)">
+        <g id="Ellipse_341-9" data-name="Ellipse 341" transform="translate(113 2)" fill="#bfc4d5" stroke="#d5dae8" stroke-width="1">
+          <circle cx="21" cy="21" r="21" stroke="none"/>
+          <circle cx="21" cy="21" r="20.5" fill="none"/>
+        </g>
+      </g>
+      <text id="NO" transform="translate(270 1985)" fill="#646a86" font-size="14" font-family="HeroNew-Regular, Hero New"><tspan x="0" y="0">NO</tspan></text>
+    </g>
+    <g id="Group_7290" data-name="Group 7290" transform="translate(373 131)">
+      <g transform="matrix(1, 0, 0, 1, 122, 1957)" filter="url(#Ellipse_341-5)">
+        <g id="Ellipse_341-10" data-name="Ellipse 341" transform="translate(138 2)" fill="#e7eaf4" stroke="#d5dae8" stroke-width="1">
+          <circle cx="21" cy="21" r="21" stroke="none"/>
+          <circle cx="21" cy="21" r="20.5" fill="none"/>
+        </g>
+      </g>
+      <text id="_3" data-name="+3" transform="translate(273 1985)" fill="#646a86" font-size="14" font-family="HeroNew-Regular, Hero New"><tspan x="0" y="0">+3</tspan></text>
+    </g>
+  </g>
+</svg>

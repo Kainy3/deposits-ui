@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="156" height="34" viewBox="0 0 156 34">
+  <defs>
+    <filter id="Rectangle_3090" x="0" y="0" width="156" height="34" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_3091" x="0" y="0" width="11" height="34" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-2"/>
+      <feFlood flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_7344" data-name="Group 7344" transform="translate(-787 -1029)">
+    <g transform="matrix(1, 0, 0, 1, 787, 1029)" filter="url(#Rectangle_3090)">
+      <g id="Rectangle_3090-2" data-name="Rectangle 3090" transform="translate(3 2)" fill="#fff" stroke="#646a86" stroke-width="1">
+        <rect width="150" height="28" rx="5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="149" height="27" rx="4.5" fill="none"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 787, 1029)" filter="url(#Rectangle_3091)">
+      <path id="Rectangle_3091-2" data-name="Rectangle 3091" d="M4,0H5A0,0,0,0,1,5,0V28a0,0,0,0,1,0,0H5a5,5,0,0,1-5-5V4A4,4,0,0,1,4,0Z" transform="translate(3 2)" fill="#646a86"/>
+    </g>
+    <g id="Rectangle_3092" data-name="Rectangle 3092" transform="translate(822 1043)" fill="#d5dae8" stroke="#d5dae8" stroke-width="1">
+      <rect width="93" height="4" rx="2" stroke="none"/>
+      <rect x="0.5" y="0.5" width="92" height="3" rx="1.5" fill="none"/>
+    </g>
+    <g id="warning" transform="translate(802 1024.241)">
+      <g id="Group_5046" data-name="Group 5046" transform="translate(0 14.759)">
+        <path id="Path_4135" data-name="Path 4135" d="M11.751,23.941,7.512,15.672a1.708,1.708,0,0,0-3.023,0L.25,23.941a1.868,1.868,0,0,0,1.511,2.818h8.478A1.868,1.868,0,0,0,11.751,23.941ZM6,25.267a.747.747,0,1,1,.7-.746A.727.727,0,0,1,6,25.267Zm.7-2.985a.7.7,0,1,1-1.406,0V18.551a.7.7,0,1,1,1.406,0Z" transform="translate(0 -14.759)" fill="#646a86"/>
+      </g>
+    </g>
+    <g id="Group_7343" data-name="Group 7343" transform="translate(1972.625 235.75) rotate(90)">
+      <g id="Group_7280" data-name="Group 7280" transform="translate(807.25 1041.137)">
+        <line id="Line_720" data-name="Line 720" y1="4.547" x2="4.547" fill="none" stroke="#798095" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.8"/>
+      </g>
+      <g id="Group_7302" data-name="Group 7302" transform="translate(807.25 1041.137)">
+        <g id="Group_7301" data-name="Group 7301">
+          <line id="Line_720-2" data-name="Line 720" x1="4.547" y1="4.547" fill="none" stroke="#798095" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.8"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

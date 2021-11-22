@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="166" height="106" viewBox="0 0 166 106">
+  <defs>
+    <filter id="Rectangle_3019" x="0" y="0" width="166" height="106" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_7289" data-name="Group 7289" transform="translate(-782 -993)">
+    <g transform="matrix(1, 0, 0, 1, 782, 993)" filter="url(#Rectangle_3019)">
+      <g id="Rectangle_3019-2" data-name="Rectangle 3019" transform="translate(3 2)" fill="#fff" stroke="#d5dae8" stroke-width="1">
+        <rect width="160" height="100" rx="5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="159" height="99" rx="4.5" fill="none"/>
+      </g>
+    </g>
+    <line id="Line_910" data-name="Line 910" x2="159" transform="translate(785.5 1071.5)" fill="none" stroke="#d5dae8" stroke-width="1"/>
+    <line id="Line_911" data-name="Line 911" x2="159" transform="translate(785.5 1047.5)" fill="none" stroke="#d5dae8" stroke-width="1"/>
+    <g id="Group_7286" data-name="Group 7286" transform="translate(792 1075)">
+      <path id="Path_9217" data-name="Path 9217" d="M0,0H12V12H0Z" transform="translate(1 2)" fill="none" opacity="0.12"/>
+      <path id="Path_9218" data-name="Path 9218" d="M14,10l-4,4V6Z" transform="translate(-5 -2)" fill="#e7eaf4"/>
+    </g>
+    <g id="Group_7287" data-name="Group 7287" transform="translate(792 1052)">
+      <path id="Path_9217-2" data-name="Path 9217" d="M0,0H12V12H0Z" transform="translate(1 2)" fill="none" opacity="0.12"/>
+      <path id="Path_9218-2" data-name="Path 9218" d="M14,10l-4,4V6Z" transform="translate(-5 -2)" fill="#e7eaf4"/>
+    </g>
+    <g id="Group_7288" data-name="Group 7288" transform="translate(807 1002) rotate(90)">
+      <path id="Path_9217-3" data-name="Path 9217" d="M0,0H12V12H0Z" transform="translate(1 2)" fill="none" opacity="0.12"/>
+      <path id="Path_9218-3" data-name="Path 9218" d="M14,10l-4,4V6Z" transform="translate(-5 -2)" fill="#bfc4d5"/>
+    </g>
+    <rect id="Rectangle_3020" data-name="Rectangle 3020" width="120" height="4" rx="2" transform="translate(812 1081)" fill="#e7eaf4"/>
+    <rect id="Rectangle_3021" data-name="Rectangle 3021" width="120" height="4" rx="2" transform="translate(812 1058)" fill="#e7eaf4"/>
+    <rect id="Rectangle_3026" data-name="Rectangle 3026" width="120" height="4" rx="2" transform="translate(812 1007)" fill="#bfc4d5"/>
+    <rect id="Rectangle_3023" data-name="Rectangle 3023" width="120" height="3" rx="1.5" transform="translate(812 1030)" fill="#bfc4d5"/>
+    <rect id="Rectangle_3073" data-name="Rectangle 3073" width="120" height="3" rx="1.5" transform="translate(812 1022)" fill="#bfc4d5"/>
+    <rect id="Rectangle_3024" data-name="Rectangle 3024" width="66" height="3" rx="1.5" transform="translate(812 1037)" fill="#bfc4d5"/>
+  </g>
+</svg>

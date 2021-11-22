@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="197" height="47" viewBox="0 0 197 47">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_3072" data-name="Rectangle 3072" width="197" height="47" transform="translate(766 1022)" fill="none" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <filter id="Rectangle_3017" x="1" y="3" width="82" height="44" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.071"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_3017-2" x="81" y="3" width="82" height="44" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur-2"/>
+      <feFlood flood-opacity="0.071"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_3017-3" x="161" y="3" width="82" height="44" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur-3"/>
+      <feFlood flood-opacity="0.071"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Mask_Group_22" data-name="Mask Group 22" transform="translate(-766 -1022)" clip-path="url(#clip-path)">
+    <g id="Group_7309" data-name="Group 7309" transform="translate(0 3)">
+      <g id="Group_7294" data-name="Group 7294" transform="translate(-32)">
+        <g transform="matrix(1, 0, 0, 1, 798, 1019)" filter="url(#Rectangle_3017)">
+          <rect id="Rectangle_3017-4" data-name="Rectangle 3017" width="70" height="32" rx="5" transform="translate(7 7)" fill="#bfc4d5"/>
+        </g>
+        <rect id="Rectangle_3018" data-name="Rectangle 3018" width="40" height="8" rx="4" transform="translate(820 1038)" fill="#646a86"/>
+      </g>
+      <g id="Group_7295" data-name="Group 7295" transform="translate(48)">
+        <g transform="matrix(1, 0, 0, 1, 718, 1019)" filter="url(#Rectangle_3017-2)">
+          <rect id="Rectangle_3017-5" data-name="Rectangle 3017" width="70" height="32" rx="5" transform="translate(87 7)" fill="#fcfcfe"/>
+        </g>
+        <rect id="Rectangle_3018-2" data-name="Rectangle 3018" width="40" height="8" rx="4" transform="translate(820 1038)" fill="#d5dae8"/>
+      </g>
+      <g id="Group_7331" data-name="Group 7331" transform="translate(128)">
+        <g transform="matrix(1, 0, 0, 1, 638, 1019)" filter="url(#Rectangle_3017-3)">
+          <rect id="Rectangle_3017-6" data-name="Rectangle 3017" width="70" height="32" rx="5" transform="translate(167 7)" fill="#fcfcfe"/>
+        </g>
+        <rect id="Rectangle_3018-3" data-name="Rectangle 3018" width="40" height="8" rx="4" transform="translate(820 1038)" fill="#d5dae8"/>
+      </g>
+    </g>
+  </g>
+</svg>

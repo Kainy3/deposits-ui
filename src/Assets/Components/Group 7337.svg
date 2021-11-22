@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="162" height="120" viewBox="0 0 162 120">
+  <defs>
+    <filter id="Rectangle_3031" x="0" y="22" width="162" height="98" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_7337" data-name="Group 7337" transform="translate(-784 -981)">
+    <g id="Group_7318" data-name="Group 7318" transform="translate(0 -26)">
+      <g id="Group_7299" data-name="Group 7299" transform="translate(790 1033)">
+        <g transform="matrix(1, 0, 0, 1, -6, -26)" filter="url(#Rectangle_3031)">
+          <g id="Rectangle_3031-2" data-name="Rectangle 3031" transform="translate(6 26)" fill="#fcfcfe" stroke="#d5dae8" stroke-width="1">
+            <rect width="150" height="86" rx="5" stroke="none"/>
+            <rect x="0.5" y="0.5" width="149" height="85" rx="4.5" fill="none"/>
+          </g>
+        </g>
+        <g id="Group_7322" data-name="Group 7322" transform="translate(97.835 20.197) rotate(90)">
+          <g id="Group_7280" data-name="Group 7280" transform="translate(0)">
+            <line id="Line_720" data-name="Line 720" y1="45.835" x2="45.835" fill="none" stroke="#d5dae8" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+          </g>
+          <g id="Group_7302" data-name="Group 7302" transform="translate(0)">
+            <g id="Group_7301" data-name="Group 7301">
+              <line id="Line_720-2" data-name="Line 720" x1="45.835" y1="45.835" fill="none" stroke="#d5dae8" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_7320" data-name="Group 7320" transform="translate(15 -8)">
+      <rect id="Rectangle_3053" data-name="Rectangle 3053" width="50" height="19" rx="3" transform="translate(875 989)" fill="#d5dae8"/>
+      <g id="Group_7319" data-name="Group 7319" transform="translate(921 992.5) rotate(90)">
+        <path id="Path_9217" data-name="Path 9217" d="M0,0H12V12H0Z" fill="none" opacity="0.12"/>
+        <path id="Path_9218" data-name="Path 9218" d="M4,4,0,8V0Z" transform="translate(4 2)" fill="#798095"/>
+      </g>
+      <g id="Rectangle_3054" data-name="Rectangle 3054" transform="translate(884 997.5)" fill="#fff" stroke="#798095" stroke-width="1">
+        <rect width="15" height="2" rx="1" stroke="none"/>
+        <rect x="0.5" y="0.5" width="14" height="1" rx="0.5" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="181" height="41" viewBox="0 0 181 41">
+  <defs>
+    <filter id="Rectangle_50" x="0" y="0" width="181" height="41" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-color="#3f3f44" flood-opacity="0.098"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_7364" data-name="Group 7364" transform="translate(-767 -1053)">
+    <g transform="matrix(1, 0, 0, 1, 767, 1053)" filter="url(#Rectangle_50)">
+      <g id="Rectangle_50-2" data-name="Rectangle 50" transform="translate(3 2)" fill="#fff" stroke="#d5dae8" stroke-width="1">
+        <rect width="175" height="35" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="174" height="34" rx="3.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_4910" data-name="Group 4910" transform="translate(765 1028)">
+      <rect id="Rectangle_674" data-name="Rectangle 674" width="28" height="20" rx="2" transform="translate(14 35)" fill="#646a86"/>
+      <rect id="Rectangle_675" data-name="Rectangle 675" width="8" height="7" rx="1" transform="translate(17 39)" fill="#fcfcfe"/>
+      <g id="Group_4911" data-name="Group 4911">
+        <line id="Line_758" data-name="Line 758" x2="2" transform="translate(18 50)" fill="none" stroke="#bfc4d5" stroke-linecap="round" stroke-width="2"/>
+        <line id="Line_759" data-name="Line 759" x2="2" transform="translate(24 50)" fill="none" stroke="#bfc4d5" stroke-linecap="round" stroke-width="2"/>
+        <line id="Line_760" data-name="Line 760" x2="2" transform="translate(30 50)" fill="none" stroke="#bfc4d5" stroke-linecap="round" stroke-width="2"/>
+        <line id="Line_761" data-name="Line 761" x2="2" transform="translate(36 50)" fill="none" stroke="#bfc4d5" stroke-linecap="round" stroke-width="2"/>
+      </g>
+    </g>
+    <rect id="Rectangle_3104" data-name="Rectangle 3104" width="69" height="4" rx="2" transform="translate(817 1070)" fill="#bfc4d5"/>
+    <rect id="Rectangle_3105" data-name="Rectangle 3105" width="9" height="4" rx="2" transform="translate(930 1070)" fill="#bfc4d5"/>
+    <rect id="Rectangle_3106" data-name="Rectangle 3106" width="9" height="4" rx="2" transform="translate(916 1070)" fill="#bfc4d5"/>
+  </g>
+</svg>

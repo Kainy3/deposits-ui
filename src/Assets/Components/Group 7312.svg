@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="156" height="97" viewBox="0 0 156 97">
+  <defs>
+    <filter id="Rectangle_3031" x="0" y="15" width="156" height="82" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_7312" data-name="Group 7312" transform="translate(-787 -1016)">
+    <g transform="matrix(1, 0, 0, 1, 787, 1016)" filter="url(#Rectangle_3031)">
+      <g id="Rectangle_3031-2" data-name="Rectangle 3031" transform="translate(3 17)" fill="#fff" stroke="#d5dae8" stroke-width="1">
+        <rect width="150" height="76" rx="5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="149" height="75" rx="4.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Rectangle_3051" data-name="Rectangle 3051" transform="translate(800 1043)" fill="#fcfcfe" stroke="#d5dae8" stroke-width="1" stroke-dasharray="2 2">
+      <rect width="130" height="47" rx="3" stroke="none"/>
+      <rect x="0.5" y="0.5" width="129" height="46" rx="2.5" fill="none"/>
+    </g>
+    <g id="Group_7313" data-name="Group 7313" transform="translate(1030.598 -244.007) rotate(45)">
+      <g id="Group_7280" data-name="Group 7280" transform="translate(807.25 1041.137)">
+        <line id="Line_720" data-name="Line 720" y1="4.547" x2="4.547" fill="none" stroke="#798095" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.8"/>
+      </g>
+      <g id="Group_7302" data-name="Group 7302" transform="translate(807.25 1041.137)">
+        <g id="Group_7301" data-name="Group 7301">
+          <line id="Line_720-2" data-name="Line 720" x1="4.547" y1="4.547" fill="none" stroke="#798095" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.8"/>
+        </g>
+      </g>
+    </g>
+    <rect id="Rectangle_3067" data-name="Rectangle 3067" width="93" height="3" rx="1" transform="translate(800 1098)" fill="#e7eaf4"/>
+    <rect id="Rectangle_3068" data-name="Rectangle 3068" width="77" height="10" rx="4" transform="translate(790 1016)" fill="#798095"/>
+  </g>
+</svg>

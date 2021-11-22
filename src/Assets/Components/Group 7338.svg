@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="107" height="156" viewBox="0 0 107 156">
+  <defs>
+    <filter id="Rectangle_3031" x="0" y="0" width="107" height="156" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_7338" data-name="Group 7338" transform="translate(-787.4 -1031)">
+    <g transform="matrix(1, 0, 0, 1, 787.4, 1031)" filter="url(#Rectangle_3031)">
+      <g id="Rectangle_3031-2" data-name="Rectangle 3031" transform="translate(3 2)" fill="#fff" stroke="#d5dae8" stroke-width="1">
+        <path d="M0,0H98a3,3,0,0,1,3,3V147a3,3,0,0,1-3,3H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" stroke="none"/>
+        <path d="M1,.5H98A2.5,2.5,0,0,1,100.5,3V147a2.5,2.5,0,0,1-2.5,2.5H1a.5.5,0,0,1-.5-.5V1A.5.5,0,0,1,1,.5Z" fill="none"/>
+      </g>
+    </g>
+    <rect id="Rectangle_3032" data-name="Rectangle 3032" width="24" height="4" rx="1" transform="translate(801.4 1042)" fill="#bfc4d5"/>
+    <rect id="Rectangle_3074" data-name="Rectangle 3074" width="24" height="4" rx="1" transform="translate(830.4 1042)" fill="#bfc4d5"/>
+    <rect id="Rectangle_3035" data-name="Rectangle 3035" width="78" height="3" rx="1" transform="translate(801.4 1067)" fill="#d5dae8"/>
+    <rect id="Rectangle_3082" data-name="Rectangle 3082" width="78" height="3" rx="1" transform="translate(801.4 1094)" fill="#d5dae8"/>
+    <rect id="Rectangle_3084" data-name="Rectangle 3084" width="78" height="3" rx="1" transform="translate(801.4 1121)" fill="#d5dae8"/>
+    <rect id="Rectangle_3087" data-name="Rectangle 3087" width="78" height="3" rx="1" transform="translate(801.4 1148)" fill="#d5dae8"/>
+    <rect id="Rectangle_3081" data-name="Rectangle 3081" width="49" height="3" rx="1" transform="translate(801.4 1075)" fill="#d5dae8"/>
+    <rect id="Rectangle_3083" data-name="Rectangle 3083" width="49" height="3" rx="1" transform="translate(801.4 1102)" fill="#d5dae8"/>
+    <rect id="Rectangle_3085" data-name="Rectangle 3085" width="49" height="3" rx="1" transform="translate(801.4 1129)" fill="#d5dae8"/>
+    <rect id="Rectangle_3086" data-name="Rectangle 3086" width="49" height="3" rx="1" transform="translate(801.4 1156)" fill="#d5dae8"/>
+    <line id="Line_912" data-name="Line 912" x2="100.4" transform="translate(790.5 1055.179)" fill="none" stroke="#d5dae8" stroke-width="1"/>
+    <g id="Group_7339" data-name="Group 7339" transform="translate(1926.025 234.203) rotate(90)">
+      <g id="Group_7280" data-name="Group 7280" transform="translate(807.25 1041.137)">
+        <line id="Line_720" data-name="Line 720" y1="4.547" x2="4.547" fill="none" stroke="#798095" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.8"/>
+      </g>
+      <g id="Group_7302" data-name="Group 7302" transform="translate(807.25 1041.137)">
+        <g id="Group_7301" data-name="Group 7301">
+          <line id="Line_720-2" data-name="Line 720" x1="4.547" y1="4.547" fill="none" stroke="#798095" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.8"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

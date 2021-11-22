@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="156" height="88" viewBox="0 0 156 88">
+  <defs>
+    <filter id="Rectangle_3031" x="0" y="15" width="156" height="73" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_7307" data-name="Group 7307" transform="translate(-787 -1016)">
+    <g transform="matrix(1, 0, 0, 1, 787, 1016)" filter="url(#Rectangle_3031)">
+      <g id="Rectangle_3031-2" data-name="Rectangle 3031" transform="translate(3 17)" fill="#fff" stroke="#d5dae8" stroke-width="1">
+        <rect width="150" height="67" rx="5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="149" height="66" rx="4.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Rectangle_3032" data-name="Rectangle 3032" transform="translate(799 1044)" fill="#bfc4d5" stroke="#bfc4d5" stroke-width="1">
+      <rect width="128" height="4" rx="1" stroke="none"/>
+      <rect x="0.5" y="0.5" width="127" height="3" rx="0.5" fill="none"/>
+    </g>
+    <g id="Rectangle_3071" data-name="Rectangle 3071" transform="translate(799 1064)" fill="#bfc4d5" stroke="#bfc4d5" stroke-width="1">
+      <rect width="88" height="4" rx="1" stroke="none"/>
+      <rect x="0.5" y="0.5" width="87" height="3" rx="0.5" fill="none"/>
+    </g>
+    <g id="Rectangle_3045" data-name="Rectangle 3045" transform="translate(799 1054)" fill="#bfc4d5" stroke="#bfc4d5" stroke-width="1">
+      <rect width="56" height="4" rx="1" stroke="none"/>
+      <rect x="0.5" y="0.5" width="55" height="3" rx="0.5" fill="none"/>
+    </g>
+    <rect id="Rectangle_3046" data-name="Rectangle 3046" width="77" height="10" rx="4" transform="translate(790 1016)" fill="#798095"/>
+  </g>
+</svg>
