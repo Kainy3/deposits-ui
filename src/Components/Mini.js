@@ -7,9 +7,9 @@ import Caption from './Content/Caption'
 
 export const Mini = ({ id, source, title, text, hovered, setHovered }) => {
     return (
-        <div onMouseOver={() => setHovered(true)} onMouseOut={() => setHovered(false)} style={{ width: '500px' }} className={`flex h-72 text-xs rounded justify-center space-x-3 p-5 shadow bg-white hover:bg-hoverBlue hover:text-white`}>
+        <div onMouseOver={() => setHovered(true)} onMouseOut={() => setHovered(false)} style={{ width: '450px' }} className={`flex h-60 items-center text-xs rounded justify-center cursor-pointer space-x-3 p-5 shadow bg-white hover:bg-hoverBlue hover:text-white`}>
             <div className='h-full w-60'>
-                <img className='h-60 w-60 ' src={source} alt='' />
+                <img className='h-60 w-full ' src={source} alt='' />
             </div>
             <div className='my-auto space-y-2'>
                 <div className='font-semibold text-sm capitalize '><h6>{title}</h6></div>
