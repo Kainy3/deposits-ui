@@ -16,3 +16,171 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+
+    @font-face {
+    font-family: 'Circular Std';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Circukar Std'), url('./fonts/circular-std/Circular Std Font.otf') format('OpenType Font');
+    }
+    
+    @font-face {
+    font-family: 'Hero New Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Hero New Regular'), url('./fonts/hero-new/Hero New Regular.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Hero New Regular Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Hero New Regular Italic'), url('./fonts/hero-new/Hero New Regular Italic.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Hero New Hairline';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Hero New Hairline'), url('./fonts/hero-new/Hero New Hairline.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Hero New Hairline Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Hero New Hairline Italic'), url('./fonts/hero-new/Hero New Hairline Italic.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Hero New Thin';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Hero New Thin'), url('./fonts/hero-new/Hero New Thin.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Hero New Thin Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Hero New Thin Italic'), url('./fonts/hero-new/Hero New Thin Italic.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Hero New UltraLight';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Hero New UltraLight'), url('./fonts/hero-new/Hero New UltraLight.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Hero New UltraLight Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Hero New UltraLight Italic'), url('./fonts/hero-new/Hero New UltraLight Italic.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Hero New Light';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Hero New Light'), url('./fonts/hero-new/Hero New Light.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Hero New Light Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Hero New Light Italic'), url('./fonts/hero-new/Hero New Light Italic.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Hero New Medium';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Hero New Medium'), url('./fonts/hero-new/Hero New Medium.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Hero New Medium Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Hero New Medium Italic'), url('./fonts/hero-new/Hero New Medium Italic.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Hero New SemiBold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Hero New SemiBold'), url('./fonts/hero-new/Hero New SemiBold.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Hero New SemiBold Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Hero New SemiBold Italic'), url('./fonts/hero-new/Hero New SemiBold Italic.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Hero New Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Hero New Bold'), url('./fonts/hero-new/Hero New Bold.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Hero New Bold Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Hero New Bold Italic'), url('./fonts/hero-new/Hero New Bold Italic.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Hero New ExtraBold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Hero New ExtraBold'), url('./fonts/hero-new/Hero New ExtraBold.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Hero New ExtraBold Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Hero New ExtraBold Italic'), url('./fonts/hero-new/Hero New ExtraBold Italic.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Hero New Super';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Hero New Super'), url('./fonts/hero-new/Hero New Super.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Hero New Super Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Hero New Super Italic'), url('./fonts/hero-new/Hero New Super Italic.woff') format('woff');
+    }

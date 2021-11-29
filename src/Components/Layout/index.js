@@ -11,7 +11,10 @@ const Index = ({ style, sideData, sideTitle, className, classname, children }) =
             <Nav />
 
             <div className='flex'>
+                <div className='hidden md:block'>
+
                 {location.pathname !== '/' && <SideBar data={sideData} title={sideTitle} />}
+                </div>
 
                 <div className={`flex-1 ${className}`}>
                     {children}

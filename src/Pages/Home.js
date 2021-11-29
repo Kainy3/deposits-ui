@@ -1,4 +1,4 @@
-import React from 'react'
+import { useState } from 'react'
 import Layout from '../Components/Layout'
 import { Mini } from '../Components/Mini'
 import { Button1, Button2 } from '../Components/Button'
@@ -8,13 +8,18 @@ import foundationsMini from '../Assets/Home/foundationsMini.svg'
 
 
 const Home = () => {
+    const [hoveredA, setHoveredA] = useState(false)
+    const [hoveredB, setHoveredB] = useState(false)
+    
+
+    
     return (
         <Layout className='mb-20' >
 
             <section className="md:flex w-8/12 mx-auto my-14 justify-center space-x-20">
                 <div className='space-y-5 my-auto'>
-                    <div className='text-3xl font-semibold'>
-                        Design solutions For fintech Companies
+                    <div className='text-3xl font-semibold font-face-hn text-header'>
+                        Design System For Fintech Solutions.
                     </div>
                     <div><p>Swys UI is built on the belief that you can never predict all future fintech requirements, web or mobile, only prepare for it. Available in React and Vue frameworks.</p></div>
                     <div className='flex space-x-5'>
@@ -34,8 +39,8 @@ const Home = () => {
                     {HomeImgs.map((item, index) => {
                         return (
                             index !== 0 &&
-                            <div key={index} className=' p-3 m-3'>
-                                <img className='border' src={item.img} alt={item.alt} />
+                            <div key={index} className='p-3 m-3'>
+                                <img className='' src={item.img} alt={item.alt} />
                             </div>
                         )
 
@@ -45,11 +50,11 @@ const Home = () => {
                 </div>
             </section>
 
-            <section className='-mt-20 flex justify-center mx-auto w-7/12 space-x-10'>
-                <Mini source={foundationsMini} title={'Foundations'}
+            <section className='-mt-20 flex justify-center mx-auto w-max space-x-10'>
+                <Mini source={foundationsMini} hovered={hoveredA} setHovered={setHoveredA} title={'Foundations'}
                     text='The visual elements needed to create engaging layouts and awesome user experiences.'
                 />
-                <Mini source={componentsMini} title={'Components'}
+                <Mini source={componentsMini} hovered={hoveredB} setHovered={setHoveredB}  title={'Components'}
                     text='The visual elements needed to create engaging layouts and awesome user experiences.'
                 />
             </section>

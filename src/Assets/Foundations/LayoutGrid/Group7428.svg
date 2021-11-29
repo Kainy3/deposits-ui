@@ -1,0 +1,146 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="410" height="150" viewBox="0 0 410 150">
+  <defs>
+    <filter id="Rectangle_50" x="40" y="57" width="214" height="38" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-color="#3f3f44" flood-opacity="0.098"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_451" x="261" y="55" width="96" height="44" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_7428" data-name="Group 7428" transform="translate(-730 -1712)">
+    <rect id="Rectangle_3015" data-name="Rectangle 3015" width="410" height="150" rx="3" transform="translate(730 1712)" fill="#fcfcfe"/>
+    <g id="input-with-icon" transform="translate(773 1745)">
+      <g transform="matrix(1, 0, 0, 1, -43, -33)" filter="url(#Rectangle_50)">
+        <rect id="Rectangle_50-2" data-name="Rectangle 50" width="208" height="32" rx="4" transform="translate(43 59)" fill="#fff"/>
+      </g>
+      <text id="Card_Number" data-name="Card Number" transform="translate(48 47)" fill="#646a86" font-size="12" font-family="HeroNew-Regular, Hero New" opacity="0.5"><tspan x="0" y="0">Card Number</tspan></text>
+      <text id="Credit_card" data-name="Credit card" transform="translate(0 14)" fill="#646a86" font-size="13" font-family="HeroNew-Regular, Hero New"><tspan x="0" y="0">Credit card</tspan></text>
+      <g id="Group_4910" data-name="Group 4910" transform="translate(-6 -2)">
+        <rect id="Rectangle_674" data-name="Rectangle 674" width="28" height="18" rx="3" transform="translate(14 35)" fill="#e7eaf4"/>
+        <rect id="Rectangle_675" data-name="Rectangle 675" width="10" height="6" rx="2" transform="translate(17 39)" fill="#fff"/>
+        <g id="Group_4911" data-name="Group 4911" transform="translate(18 48.5)">
+          <line id="Line_758" data-name="Line 758" x2="2" transform="translate(0 0.5)" fill="none" stroke="#bfc4d5" stroke-linecap="round" stroke-width="2"/>
+          <line id="Line_759" data-name="Line 759" x2="2" transform="translate(6 0.5)" fill="none" stroke="#bfc4d5" stroke-linecap="round" stroke-width="2"/>
+          <line id="Line_760" data-name="Line 760" x2="2" transform="translate(12 0.5)" fill="none" stroke="#bfc4d5" stroke-linecap="round" stroke-width="2"/>
+          <line id="Line_761" data-name="Line 761" x2="2" transform="translate(18 0.5)" fill="none" stroke="#bfc4d5" stroke-linecap="round" stroke-width="2"/>
+        </g>
+      </g>
+    </g>
+    <g id="btn-primary" transform="translate(997 1771)">
+      <g transform="matrix(1, 0, 0, 1, -267, -59)" filter="url(#Rectangle_451)">
+        <rect id="Rectangle_451-2" data-name="Rectangle 451" width="84" height="32" rx="3" transform="translate(267 59)" fill="#2843b4"/>
+      </g>
+      <text id="Pay_Now" data-name="Pay Now" transform="translate(42 21)" fill="#fff" font-size="12" font-family="HeroNew-Medium, Hero New" font-weight="500"><tspan x="-26" y="0">Pay Now</tspan></text>
+    </g>
+    <g id="Group_7423" data-name="Group 7423" transform="translate(227 1016)">
+      <text id="_8p" data-name="8p" transform="translate(550 812)" fill="#646a86" font-size="12" font-family="HeroNew-Light, Hero New" font-weight="300"><tspan x="-7" y="0">8p</tspan></text>
+      <g id="Group_7418" data-name="Group 7418" transform="translate(-119.705 1150) rotate(-90)">
+        <g id="Rectangle_3160" data-name="Rectangle 3160" transform="translate(351 665.706)" fill="#16b3ef" stroke="#16b3ef" stroke-width="0.5">
+          <rect width="2" height="8" stroke="none"/>
+          <rect x="0.25" y="0.25" width="1.5" height="7.5" fill="none"/>
+        </g>
+        <g id="Rectangle_3161" data-name="Rectangle 3161" transform="translate(359 665.706) rotate(90)" fill="#16b3ef" stroke="#16b3ef" stroke-width="0.5">
+          <rect width="2" height="8" stroke="none"/>
+          <rect x="0.25" y="0.25" width="1.5" height="7.5" fill="none"/>
+        </g>
+        <g id="Rectangle_3162" data-name="Rectangle 3162" transform="translate(359 671.706) rotate(90)" fill="#16b3ef" stroke="#16b3ef" stroke-width="0.5">
+          <rect width="2" height="8" stroke="none"/>
+          <rect x="0.25" y="0.25" width="1.5" height="7.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_7424" data-name="Group 7424" transform="translate(435 1016)">
+      <text id="_16p" data-name="16p" transform="translate(553 812)" fill="#646a86" font-size="12" font-family="HeroNew-Light, Hero New" font-weight="300"><tspan x="-10" y="0">16p</tspan></text>
+      <g id="Group_7418-2" data-name="Group 7418" transform="translate(-119.705 1150) rotate(-90)">
+        <g id="Rectangle_3160-2" data-name="Rectangle 3160" transform="translate(351 665.706)" fill="#16b3ef" stroke="#16b3ef" stroke-width="0.5">
+          <rect width="2" height="16" stroke="none"/>
+          <rect x="0.25" y="0.25" width="1.5" height="15.5" fill="none"/>
+        </g>
+        <g id="Rectangle_3161-2" data-name="Rectangle 3161" transform="translate(359 665.706) rotate(90)" fill="#16b3ef" stroke="#16b3ef" stroke-width="0.5">
+          <rect width="2" height="8" stroke="none"/>
+          <rect x="0.25" y="0.25" width="1.5" height="7.5" fill="none"/>
+        </g>
+        <g id="Rectangle_3162-2" data-name="Rectangle 3162" transform="translate(359 679.706) rotate(90)" fill="#16b3ef" stroke="#16b3ef" stroke-width="0.5">
+          <rect width="2" height="8" stroke="none"/>
+          <rect x="0.25" y="0.25" width="1.5" height="7.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_7426" data-name="Group 7426" transform="translate(451 966)">
+      <text id="_16p-2" data-name="16p" transform="translate(554 784)" fill="#646a86" font-size="12" font-family="HeroNew-Light, Hero New" font-weight="300"><tspan x="-10" y="0">16p</tspan></text>
+      <g id="Group_7418-3" data-name="Group 7418" transform="translate(562 791) rotate(90)">
+        <g id="Rectangle_3160-3" data-name="Rectangle 3160" fill="#16b3ef" stroke="#16b3ef" stroke-width="0.5">
+          <rect width="2" height="16" stroke="none"/>
+          <rect x="0.25" y="0.25" width="1.5" height="15.5" fill="none"/>
+        </g>
+        <g id="Rectangle_3161-3" data-name="Rectangle 3161" transform="translate(0 16) rotate(-90)" fill="#16b3ef" stroke="#16b3ef" stroke-width="0.5">
+          <rect width="2" height="8" stroke="none"/>
+          <rect x="0.25" y="0.25" width="1.5" height="7.5" fill="none"/>
+        </g>
+        <g id="Rectangle_3162-3" data-name="Rectangle 3162" transform="translate(0 2) rotate(-90)" fill="#16b3ef" stroke="#16b3ef" stroke-width="0.5">
+          <rect width="2" height="8" stroke="none"/>
+          <rect x="0.25" y="0.25" width="1.5" height="7.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_7427" data-name="Group 7427" transform="translate(517 966)">
+      <text id="_16p-3" data-name="16p" transform="translate(554 784)" fill="#646a86" font-size="12" font-family="HeroNew-Light, Hero New" font-weight="300"><tspan x="-10" y="0">16p</tspan></text>
+      <g id="Group_7418-4" data-name="Group 7418" transform="translate(562 791) rotate(90)">
+        <g id="Rectangle_3160-4" data-name="Rectangle 3160" fill="#16b3ef" stroke="#16b3ef" stroke-width="0.5">
+          <rect width="2" height="16" stroke="none"/>
+          <rect x="0.25" y="0.25" width="1.5" height="15.5" fill="none"/>
+        </g>
+        <g id="Rectangle_3161-4" data-name="Rectangle 3161" transform="translate(0 16) rotate(-90)" fill="#16b3ef" stroke="#16b3ef" stroke-width="0.5">
+          <rect width="2" height="8" stroke="none"/>
+          <rect x="0.25" y="0.25" width="1.5" height="7.5" fill="none"/>
+        </g>
+        <g id="Rectangle_3162-4" data-name="Rectangle 3162" transform="translate(0 2) rotate(-90)" fill="#16b3ef" stroke="#16b3ef" stroke-width="0.5">
+          <rect width="2" height="8" stroke="none"/>
+          <rect x="0.25" y="0.25" width="1.5" height="7.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_7422" data-name="Group 7422" transform="translate(204 955)">
+      <text id="_8p-2" data-name="8p" transform="translate(547 815)" fill="#646a86" font-size="12" font-family="HeroNew-Light, Hero New" font-weight="300"><tspan x="-7" y="0">8p</tspan></text>
+      <g id="Group_7418-5" data-name="Group 7418" transform="translate(207 140.295)">
+        <g id="Rectangle_3160-5" data-name="Rectangle 3160" transform="translate(351 665.706)" fill="#16b3ef" stroke="#16b3ef" stroke-width="0.5">
+          <rect width="2" height="8" stroke="none"/>
+          <rect x="0.25" y="0.25" width="1.5" height="7.5" fill="none"/>
+        </g>
+        <g id="Rectangle_3161-5" data-name="Rectangle 3161" transform="translate(359 665.706) rotate(90)" fill="#16b3ef" stroke="#16b3ef" stroke-width="0.5">
+          <rect width="2" height="8" stroke="none"/>
+          <rect x="0.25" y="0.25" width="1.5" height="7.5" fill="none"/>
+        </g>
+        <g id="Rectangle_3162-5" data-name="Rectangle 3162" transform="translate(359 671.706) rotate(90)" fill="#16b3ef" stroke="#16b3ef" stroke-width="0.5">
+          <rect width="2" height="8" stroke="none"/>
+          <rect x="0.25" y="0.25" width="1.5" height="7.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_7425" data-name="Group 7425" transform="translate(532 988)">
+      <text id="_32p" data-name="32p" transform="translate(581 804)" fill="#646a86" font-size="12" font-family="HeroNew-Light, Hero New" font-weight="300"><tspan x="-10" y="0">32p</tspan></text>
+      <g id="Group_7418-6" data-name="Group 7418" transform="translate(558 783.325)">
+        <g id="Rectangle_3160-6" data-name="Rectangle 3160" transform="translate(6 -0.325)" fill="#16b3ef" stroke="#16b3ef" stroke-width="0.5">
+          <rect width="2" height="32" stroke="none"/>
+          <rect x="0.25" y="0.25" width="1.5" height="31.5" fill="none"/>
+        </g>
+        <g id="Rectangle_3161-6" data-name="Rectangle 3161" transform="translate(8 -0.325) rotate(90)" fill="#16b3ef" stroke="#16b3ef" stroke-width="0.5">
+          <rect width="2" height="8" stroke="none"/>
+          <rect x="0.25" y="0.25" width="1.5" height="7.5" fill="none"/>
+        </g>
+        <g id="Rectangle_3162-6" data-name="Rectangle 3162" transform="translate(8 29.675) rotate(90)" fill="#16b3ef" stroke="#16b3ef" stroke-width="0.5">
+          <rect width="2" height="8" stroke="none"/>
+          <rect x="0.25" y="0.25" width="1.5" height="7.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

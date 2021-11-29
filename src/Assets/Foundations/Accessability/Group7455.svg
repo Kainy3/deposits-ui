@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="790" height="240" viewBox="0 0 790 240">
+  <g id="Group_7455" data-name="Group 7455" transform="translate(-300 -1083)">
+    <rect id="Rectangle_3205" data-name="Rectangle 3205" width="790" height="240" rx="3" transform="translate(300 1083)" fill="#fcfcfe"/>
+    <g id="Group_7452" data-name="Group 7452" transform="translate(38 26)">
+      <rect id="Rectangle_2879" data-name="Rectangle 2879" width="225" height="135" rx="10" transform="translate(300 1089)" fill="#313e6f"/>
+      <line id="Line_928" data-name="Line 928" y2="70" transform="translate(370.497 1121.5)" fill="none" stroke="#3d4b7d" stroke-width="1"/>
+      <text id="A" transform="translate(342 1166)" fill="#697bbc" font-size="28" font-family="CircularStd-Medium, Circular Std" font-weight="500"><tspan x="-9" y="0">A</tspan></text>
+      <text id="_2.52:1" data-name="2.52:1" transform="translate(428.823 1166)" fill="#697bbc" font-size="28" font-family="CircularStd-Medium, Circular Std" font-weight="500"><tspan x="-36" y="0">2.52:1</tspan></text>
+    </g>
+    <g id="Group_7453" data-name="Group 7453" transform="translate(-4 26)">
+      <rect id="Rectangle_3203" data-name="Rectangle 3203" width="225" height="135" rx="10" transform="translate(587 1089)" fill="#313e6f"/>
+      <line id="Line_929" data-name="Line 929" y2="70" transform="translate(669.853 1121.5)" fill="none" stroke="#3d4b7d" stroke-width="1"/>
+      <text id="AA" transform="translate(634 1166)" fill="#b1badc" font-size="28" font-family="CircularStd-Medium, Circular Std" font-weight="500"><tspan x="-19" y="0">AA</tspan></text>
+      <text id="_5.33:1" data-name="5.33:1" transform="translate(723.621 1166)" fill="#b1badc" font-size="28" font-family="CircularStd-Medium, Circular Std" font-weight="500"><tspan x="-36" y="0">5.33:1</tspan></text>
+    </g>
+    <g id="Group_7454" data-name="Group 7454" transform="translate(-45.5 26)">
+      <rect id="Rectangle_3204" data-name="Rectangle 3204" width="225" height="135" rx="10" transform="translate(873.5 1089)" fill="#313e6f"/>
+      <line id="Line_930" data-name="Line 930" y2="70" transform="translate(978.438 1121.5)" fill="none" stroke="#3d4b7d" stroke-width="1"/>
+      <text id="_7.33:1" data-name="7.33:1" transform="translate(1030.07 1166)" fill="#d5dae8" font-size="28" font-family="CircularStd-Medium, Circular Std" font-weight="500"><tspan x="-34" y="0">7.33:1</tspan></text>
+      <text id="AAA" transform="translate(933 1166)" fill="#d5dae8" font-size="28" font-family="CircularStd-Medium, Circular Std" font-weight="500"><tspan x="-29" y="0">AAA</tspan></text>
+    </g>
+    <text id="Low_Contrast" data-name="Low Contrast" transform="translate(413 1287)" fill="#646a86" font-size="12" font-family="HeroNew-Light, Hero New" font-weight="300"><tspan x="0" y="0">Low Contrast</tspan></text>
+    <text id="Average_Contrast" data-name="Average Contrast" transform="translate(645 1287)" fill="#646a86" font-size="12" font-family="HeroNew-Light, Hero New" font-weight="300"><tspan x="0" y="0">Average Contrast</tspan></text>
+    <text id="High_Contrast" data-name="High Contrast" transform="translate(899 1287)" fill="#646a86" font-size="12" font-family="HeroNew-Light, Hero New" font-weight="300"><tspan x="0" y="0">High Contrast</tspan></text>
+  </g>
+</svg>

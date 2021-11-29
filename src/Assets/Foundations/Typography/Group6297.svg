@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="172" height="156" viewBox="0 0 172 156">
+  <g id="Group_6297" data-name="Group 6297" transform="translate(-260 -233)">
+    <g id="Rectangle_117" data-name="Rectangle 117" transform="translate(260 233)" fill="#fcfcfe" stroke="#e7eaf4" stroke-width="1">
+      <rect width="172" height="156" rx="4" stroke="none"/>
+      <rect x="0.5" y="0.5" width="171" height="155" rx="3.5" fill="none"/>
+    </g>
+    <text id="Aa" transform="translate(346 304)" fill="#646a86" font-size="60" font-family="CircularStd-Bold, Circular Std" font-weight="700"><tspan x="-37" y="0">Aa</tspan></text>
+    <text id="Circular_std" data-name="Circular std" transform="translate(346 364)" fill="#646a86" font-size="12" font-family="CircularStd-Medium, Circular Std" font-weight="500"><tspan x="-43" y="0">CIRCULAR STD</tspan></text>
+    <line id="Line_1" data-name="Line 1" x2="110" transform="translate(291.5 333.5)" fill="none" stroke="#e7eaf4" stroke-width="1"/>
+  </g>
+</svg>

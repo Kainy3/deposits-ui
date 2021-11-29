@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="790" height="205" viewBox="0 0 790 205">
+  <g id="typography" transform="translate(-300 -577)">
+    <g id="bg" transform="translate(300 577)" fill="#fcfcfe" stroke="#e7eaf4" stroke-width="1">
+      <rect width="790" height="205" rx="4" stroke="none"/>
+      <rect x="0.5" y="0.5" width="789" height="204" rx="3.5" fill="none"/>
+    </g>
+    <g id="Group_7417" data-name="Group 7417" transform="translate(10 -1)">
+      <rect id="Rectangle_3157" data-name="Rectangle 3157" width="579" height="2" transform="translate(415 687)" fill="#bfc4d5"/>
+      <rect id="Rectangle_3156" data-name="Rectangle 3156" width="579" height="2" transform="translate(415 641)" fill="#bfc4d5"/>
+      <rect id="Rectangle_3159" data-name="Rectangle 3159" width="579" height="2" transform="translate(415 635)" fill="#bfc4d5"/>
+      <rect id="Rectangle_3158" data-name="Rectangle 3158" width="579" height="2" transform="translate(415 659)" fill="#bfc4d5"/>
+      <g id="Group_7411" data-name="Group 7411">
+        <rect id="Rectangle_3154" data-name="Rectangle 3154" width="579" height="4" transform="translate(415 714)" fill="#16b3ef"/>
+        <rect id="Rectangle_3153" data-name="Rectangle 3153" width="579" height="53" transform="translate(415 661)" fill="#d9f6ff"/>
+      </g>
+      <rect id="Rectangle_3155" data-name="Rectangle 3155" width="579" height="2" transform="translate(415 733)" fill="#bfc4d5"/>
+      <text id="Typography-2" data-name="Typography" transform="translate(704 714)" fill="#646a86" font-size="97" font-family="HeroNew-Medium, Hero New" font-weight="500"><tspan x="-289" y="0">Typography</tspan></text>
+    </g>
+    <text id="Descent" transform="translate(1016 735)" fill="#646a86" font-size="12" font-family="HeroNew-Light, Hero New" font-weight="300"><tspan x="0" y="0">Descent</tspan></text>
+    <text id="Baseline" transform="translate(1016 717)" fill="#646a86" font-size="12" font-family="HeroNew-Light, Hero New" font-weight="300"><tspan x="0" y="0">Baseline</tspan></text>
+    <text id="Ascent" transform="translate(1016 643)" fill="#646a86" font-size="12" font-family="HeroNew-Light, Hero New" font-weight="300"><tspan x="0" y="0">Ascent</tspan></text>
+    <g id="Group_7416" data-name="Group 7416" transform="translate(14)">
+      <text id="Cap-height" transform="translate(324 712) rotate(-90)" fill="#646a86" font-size="12" font-family="HeroNew-Light, Hero New" font-weight="300"><tspan x="0" y="0">Cap-height</tspan></text>
+      <g id="Group_7414" data-name="Group 7414" transform="translate(-18 -24.429)">
+        <rect id="Rectangle_3160" data-name="Rectangle 3160" width="2" height="77" transform="translate(351 665.429)" fill="#16b3ef"/>
+        <rect id="Rectangle_3161" data-name="Rectangle 3161" width="2" height="27" transform="translate(378 665.429) rotate(90)" fill="#16b3ef"/>
+        <rect id="Rectangle_3162" data-name="Rectangle 3162" width="2" height="27" transform="translate(378 740.429) rotate(90)" fill="#16b3ef"/>
+      </g>
+    </g>
+    <g id="Group_7415" data-name="Group 7415" transform="translate(13)">
+      <text id="x-height" transform="translate(372 712) rotate(-90)" fill="#646a86" font-size="12" font-family="HeroNew-Light, Hero New" font-weight="300"><tspan x="0" y="0">x-height</tspan></text>
+      <g id="Group_7413" data-name="Group 7413" transform="translate(28 -6.222)">
+        <rect id="Rectangle_3160-2" data-name="Rectangle 3160" width="2" height="59" transform="translate(351 665.222)" fill="#16b3ef"/>
+        <rect id="Rectangle_3161-2" data-name="Rectangle 3161" width="2" height="27" transform="translate(378 665.222) rotate(90)" fill="#16b3ef"/>
+        <rect id="Rectangle_3162-2" data-name="Rectangle 3162" width="2" height="27" transform="translate(378 722.222) rotate(90)" fill="#16b3ef"/>
+      </g>
+    </g>
+  </g>
+</svg>

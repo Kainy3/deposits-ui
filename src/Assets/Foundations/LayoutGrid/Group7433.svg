@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="790" height="268" viewBox="0 0 790 268">
+  <defs>
+    <filter id="Rectangle_3118" x="36" y="26" width="718" height="174" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_7433" data-name="Group 7433" transform="translate(-300 -600)">
+    <rect id="Rectangle_2895" data-name="Rectangle 2895" width="790" height="268" rx="3" transform="translate(300 600)" fill="#fcfcfe"/>
+    <g id="layout" transform="translate(-746 438)">
+      <g transform="matrix(1, 0, 0, 1, 1046, 162)" filter="url(#Rectangle_3118)">
+        <rect id="Rectangle_3118-2" data-name="Rectangle 3118" width="700" height="156" transform="translate(45 32)" fill="#fff"/>
+      </g>
+      <rect id="Rectangle_3119" data-name="Rectangle 3119" width="20" height="156" transform="translate(1191 194)" fill="#d5dae8"/>
+      <rect id="Rectangle_3163" data-name="Rectangle 3163" width="20" height="156" transform="translate(1311 194)" fill="#d5dae8"/>
+      <rect id="Rectangle_3164" data-name="Rectangle 3164" width="20" height="156" transform="translate(1431 194)" fill="#d5dae8"/>
+      <rect id="Rectangle_3165" data-name="Rectangle 3165" width="20" height="156" transform="translate(1551 194)" fill="#d5dae8"/>
+      <rect id="Rectangle_3166" data-name="Rectangle 3166" width="20" height="156" transform="translate(1671 194)" fill="#d5dae8"/>
+    </g>
+    <g id="Group_7419" data-name="Group 7419" transform="translate(140 15)">
+      <text id="Column" transform="translate(354 817)" fill="#646a86" font-size="12" font-family="HeroNew-Light, Hero New" font-weight="300"><tspan x="0" y="0">Column</tspan></text>
+      <g id="Group_7413" data-name="Group 7413" transform="translate(-339.222 1150) rotate(-90)">
+        <rect id="Rectangle_3160" data-name="Rectangle 3160" width="2" height="99" transform="translate(351 665.222)" fill="#16b3ef"/>
+        <rect id="Rectangle_3161" data-name="Rectangle 3161" width="2" height="17" transform="translate(368 665.222) rotate(90)" fill="#16b3ef"/>
+        <rect id="Rectangle_3162" data-name="Rectangle 3162" width="2" height="17" transform="translate(368 762.222) rotate(90)" fill="#16b3ef"/>
+      </g>
+    </g>
+    <g id="Group_7420" data-name="Group 7420" transform="translate(139 15)">
+      <text id="Gutter" transform="translate(538 817)" fill="#646a86" font-size="12" font-family="HeroNew-Light, Hero New" font-weight="300"><tspan x="0" y="0">Gutter</tspan></text>
+      <g id="Group_7418" data-name="Group 7418" transform="translate(-119.705 1150) rotate(-90)">
+        <rect id="Rectangle_3160-2" data-name="Rectangle 3160" width="2" height="20" transform="translate(351 665.706)" fill="#16b3ef"/>
+        <rect id="Rectangle_3161-2" data-name="Rectangle 3161" width="2" height="17" transform="translate(368 665.706) rotate(90)" fill="#16b3ef"/>
+        <rect id="Rectangle_3162-2" data-name="Rectangle 3162" width="2" height="17" transform="translate(368 683.706) rotate(90)" fill="#16b3ef"/>
+      </g>
+    </g>
+  </g>
+</svg>

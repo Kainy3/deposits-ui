@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="360" height="150" viewBox="0 0 360 150">
+  <defs>
+    <filter id="Rectangle_3118" x="15" y="11" width="331" height="115" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect width="302" height="97" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_7429" data-name="Group 7429" transform="translate(-300 -1714)">
+    <rect id="Rectangle_3012" data-name="Rectangle 3012" width="360" height="150" rx="3" transform="translate(300 1714)" fill="#fcfcfe"/>
+    <g id="layout" transform="translate(324 1731)">
+      <g transform="matrix(1, 0, 0, 1, -24, -17)" filter="url(#Rectangle_3118)">
+        <rect id="Rectangle_3118-2" data-name="Rectangle 3118" width="313" height="97" transform="translate(24 17)" fill="#fff"/>
+      </g>
+      <g id="Repeat_Grid_9" data-name="Repeat Grid 9" transform="translate(8)" clip-path="url(#clip-path)">
+        <g transform="translate(-1099 -194)">
+          <rect id="Rectangle_3119" data-name="Rectangle 3119" width="8" height="97" transform="translate(1099 194)" fill="#d5dae8"/>
+          <rect id="Rectangle_3169" data-name="Rectangle 3169" width="8" height="97" transform="translate(1115 194)" fill="#d5dae8"/>
+          <rect id="Rectangle_3170" data-name="Rectangle 3170" width="8" height="97" transform="translate(1131 194)" fill="#d5dae8"/>
+          <rect id="Rectangle_3171" data-name="Rectangle 3171" width="8" height="97" transform="translate(1147 194)" fill="#d5dae8"/>
+          <rect id="Rectangle_3172" data-name="Rectangle 3172" width="8" height="97" transform="translate(1163 194)" fill="#d5dae8"/>
+          <rect id="Rectangle_3173" data-name="Rectangle 3173" width="8" height="97" transform="translate(1179 194)" fill="#d5dae8"/>
+          <rect id="Rectangle_3174" data-name="Rectangle 3174" width="8" height="97" transform="translate(1195 194)" fill="#d5dae8"/>
+        </g>
+        <g transform="translate(-987 -194)">
+          <rect id="Rectangle_3119-2" data-name="Rectangle 3119" width="8" height="97" transform="translate(1099 194)" fill="#d5dae8"/>
+          <rect id="Rectangle_3169-2" data-name="Rectangle 3169" width="8" height="97" transform="translate(1115 194)" fill="#d5dae8"/>
+          <rect id="Rectangle_3170-2" data-name="Rectangle 3170" width="8" height="97" transform="translate(1131 194)" fill="#d5dae8"/>
+          <rect id="Rectangle_3171-2" data-name="Rectangle 3171" width="8" height="97" transform="translate(1147 194)" fill="#d5dae8"/>
+          <rect id="Rectangle_3172-2" data-name="Rectangle 3172" width="8" height="97" transform="translate(1163 194)" fill="#d5dae8"/>
+          <rect id="Rectangle_3173-2" data-name="Rectangle 3173" width="8" height="97" transform="translate(1179 194)" fill="#d5dae8"/>
+          <rect id="Rectangle_3174-2" data-name="Rectangle 3174" width="8" height="97" transform="translate(1195 194)" fill="#d5dae8"/>
+        </g>
+        <g transform="translate(-875 -194)">
+          <rect id="Rectangle_3119-3" data-name="Rectangle 3119" width="8" height="97" transform="translate(1099 194)" fill="#d5dae8"/>
+          <rect id="Rectangle_3169-3" data-name="Rectangle 3169" width="8" height="97" transform="translate(1115 194)" fill="#d5dae8"/>
+          <rect id="Rectangle_3170-3" data-name="Rectangle 3170" width="8" height="97" transform="translate(1131 194)" fill="#d5dae8"/>
+          <rect id="Rectangle_3171-3" data-name="Rectangle 3171" width="8" height="97" transform="translate(1147 194)" fill="#d5dae8"/>
+          <rect id="Rectangle_3172-3" data-name="Rectangle 3172" width="8" height="97" transform="translate(1163 194)" fill="#d5dae8"/>
+          <rect id="Rectangle_3173-3" data-name="Rectangle 3173" width="8" height="97" transform="translate(1179 194)" fill="#d5dae8"/>
+          <rect id="Rectangle_3174-3" data-name="Rectangle 3174" width="8" height="97" transform="translate(1195 194)" fill="#d5dae8"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_7421" data-name="Group 7421" transform="translate(472 1832)">
+      <text id="_8p" data-name="8p" transform="translate(8 21)" fill="#646a86" font-size="12" font-family="HeroNew-Light, Hero New" font-weight="300"><tspan x="-7" y="0">8p</tspan></text>
+      <g id="Group_7418" data-name="Group 7418" transform="translate(4 8) rotate(-90)">
+        <g id="Rectangle_3160" data-name="Rectangle 3160" transform="translate(0 0)" fill="#16b3ef" stroke="#16b3ef" stroke-width="0.5">
+          <rect width="2" height="8" stroke="none"/>
+          <rect x="0.25" y="0.25" width="1.5" height="7.5" fill="none"/>
+        </g>
+        <g id="Rectangle_3161" data-name="Rectangle 3161" transform="translate(8 0) rotate(90)" fill="#16b3ef" stroke="#16b3ef" stroke-width="0.5">
+          <rect width="2" height="8" stroke="none"/>
+          <rect x="0.25" y="0.25" width="1.5" height="7.5" fill="none"/>
+        </g>
+        <g id="Rectangle_3162" data-name="Rectangle 3162" transform="translate(8 6) rotate(90)" fill="#16b3ef" stroke="#16b3ef" stroke-width="0.5">
+          <rect width="2" height="8" stroke="none"/>
+          <rect x="0.25" y="0.25" width="1.5" height="7.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="293" height="166" viewBox="0 0 293 166">
+  <defs>
+    <filter id="Rectangle_3118" x="11" y="21" width="272" height="115" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_7430" data-name="Group 7430" transform="translate(-797 -1382)">
+    <rect id="Rectangle_3168" data-name="Rectangle 3168" width="293" height="166" rx="3" transform="translate(797 1382)" fill="#fcfcfe"/>
+    <g id="layout" transform="translate(-274 1215)">
+      <g transform="matrix(1, 0, 0, 1, 1071, 167)" filter="url(#Rectangle_3118)">
+        <rect id="Rectangle_3118-2" data-name="Rectangle 3118" width="254" height="97" transform="translate(20 27)" fill="#fff"/>
+      </g>
+      <rect id="Rectangle_3119" data-name="Rectangle 3119" width="11" height="97" transform="translate(1133 194)" fill="#d5dae8"/>
+      <rect id="Rectangle_3163" data-name="Rectangle 3163" width="11" height="97" transform="translate(1186 194)" fill="#d5dae8"/>
+      <rect id="Rectangle_3164" data-name="Rectangle 3164" width="11" height="97" transform="translate(1239 194)" fill="#d5dae8"/>
+      <rect id="Rectangle_3165" data-name="Rectangle 3165" width="11" height="97" transform="translate(1292 194)" fill="#d5dae8"/>
+    </g>
+    <text id="Fixed_grid_Narrow_screen_" data-name="Fixed grid (Narrow screen)" transform="translate(944 1532)" fill="#646a86" font-size="12" font-family="HeroNew-Light, Hero New" font-weight="300"><tspan x="-75" y="0">Fixed grid (Narrow screen)</tspan></text>
+  </g>
+</svg>

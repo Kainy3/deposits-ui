@@ -5,8 +5,13 @@ module.exports = {
     extend: {
       colors: {
         primary: "#2843B4",
-        secondary:"#141D47",
+        secondary: "#141D47",
         grey_1: "#FCFCFE",
+        hoverBlue: "#0370D6",
+        codeText: "#00ACEE",
+        codeBg: "#D6F6FF ",
+        header: "#2C3149",
+        caption: "#646A86",
       }
     },
   },

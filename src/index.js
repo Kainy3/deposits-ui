@@ -1,7 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import App from './App'
+import './fonts/hero-new/Hero New Regular.woff'
+import './fonts/hero-new/Hero New Light.woff'
+import './fonts/circular-std/Circular Std Font.otf'
+
 
 ReactDOM.render(
   <React.StrictMode>

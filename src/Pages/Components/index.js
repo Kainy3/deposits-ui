@@ -7,6 +7,12 @@ import componentsIllustration from '../../Assets/Components/componentsIllustrati
 import CompHome from './Home'
 // import foundationsHome from '../../Assets/General/foundationsHome.svg'
 
+
+export const CompHeader = ({ children }) => {
+    return (
+        <h5 className='my-8 font-face-hn font-semibold uppercase'>{children} </h5>
+    )
+}
 const Components = () => {
     const location = useLocation()
     // const [selected, setSelected] = useState(0)
@@ -16,7 +22,7 @@ const Components = () => {
             <Header title='Components' caption='The habitual elementary units of our design system. The elements that gets you started.' headerImg={componentsIllustration} />
             <div className='flex py-14'>
                 <div className='flex-1 px-12 '>
-                   {(location.pathname === '/components' || location.pathname === '/components/') && <CompHome />}
+                    {(location.pathname === '/components' || location.pathname === '/components/') && <CompHome />}
                     {/*  {(location.pathname === '/compoents/accessibility' || location.pathname === '/compoents/accessibility/') && <Accessibility />}
                     {(location.pathname === '/compoents/color' || location.pathname === '/compoents/color/') && <Color />} */}
                 </div>

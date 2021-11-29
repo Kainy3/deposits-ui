@@ -2,6 +2,17 @@
   text-align: center;
 }
 
+.font-face-cs {
+ font-family: "Circular Std";
+}
+.font-face-hn {
+ font-family: "Hero New Regular";
+}
+.font-face-hn-li {
+ font-family: "Hero New Light";
+}
+
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
