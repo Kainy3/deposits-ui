@@ -16,7 +16,7 @@ const Index = ({ style, sideData, sideTitle, className, classname, children }) =
                 {location.pathname !== '/' && <SideBar data={sideData} title={sideTitle} />}
                 </div>
 
-                <div className={`flex-1 ${className}`}>
+                <div className={`flex-1 ${className} mb-28`}>
                     {children}
                 </div>
             </div>

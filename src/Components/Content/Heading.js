@@ -9,7 +9,7 @@ export const Heading3 = ({children, id, className}) => {
 }
 export const Heading4 = ({children, id, className}) => {
     return (
-        <h3 id={id} className={`${className} font-semibold text-xl my-4`}>
+        <h3 id={id} className={`${className} font-face-hn font-semibold text-xl my-4`}>
             {children}
         </h3>
     )

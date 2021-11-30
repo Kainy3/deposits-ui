@@ -7,14 +7,14 @@ import sheltr from '../Assets/Home/sheltr.svg'
 import socialSafety from '../Assets/Home/socialSafety.svg'
 import swys from '../Assets/Home/swys.svg'
 
+import eye from '../Assets/Foundations/eye.svg'
+import typography from '../Assets/Foundations/typography.svg'
+import layout from '../Assets/Foundations/layout.svg'
+import Paint from '../Assets/Foundations/Paint.svg'
+import star from '../Assets/Foundations/star.svg'
+
 import buttons from '../Assets/Components/buttons.svg'
-// // import componentsIllustration from '../Assets/Components/componentsIllustration.svg'
-// import image1 from '../Assets/Components/Group1002-1.svg'
-// import image2 from '../Assets/Components/Group1002-2.svg'
-// import image3 from '../Assets/Components/Group1002-3.svg'
-// import image4 from '../Assets/Components/Group1002.svg'
 import image5 from '../Assets/Components/Group7289.svg'
-// import image6 from '../Assets/Components/Group7291.svg'
 import image7 from '../Assets/Components/Group7300.svg'
 import image8 from '../Assets/Components/Group7306.svg'
 import image9 from '../Assets/Components/Group7307.svg'
@@ -34,8 +34,6 @@ import image22 from '../Assets/Components/Group7342.svg'
 import image23 from '../Assets/Components/Group7344.svg'
 import image24 from '../Assets/Components/Group7345.svg'
 import image25 from '../Assets/Components/Group7349.svg'
-// import image26 from '../Assets/Components/Group7353-1.svg'
-// import image27 from '../Assets/Components/Group7353.svg'
 import image28 from '../Assets/Components/Group7354.svg'
 import image29 from '../Assets/Components/Group7355.svg'
 import image30 from '../Assets/Components/Group7358.svg'
@@ -74,11 +72,11 @@ export const documentData = [
 ]
 export const foundationData = [
     { name: 'Home', link: '/foundations' },
-    { name: 'Accessibility', link: '/foundations/accessibility', caption: 'Accessibility lets people of all abilities interact with and understand our products.' },
-    { name: 'Color', link: '/foundations/color', caption: 'Color makes our brand stands out, helps create consistency across our products.' },
-    { name: 'Iconography', link: '/foundations/iconography', caption: 'Icons are visual representations of commands, devices or common actions.' },
-    { name: 'Layout & Grid', link: '/foundations/layout', caption: 'Layouts and grid is about positioning of elements on screen to create good experience.' },
-    { name: 'Typography', link: '/foundations/typography', caption: 'Typography talks about font type, style, weight, spacing and their use to create a good experience.' },
+    { name: 'Accessibility', link: '/foundations/accessibility', img: eye,  caption: 'Accessibility lets people of all abilities interact with and understand our products.' },
+    { name: 'Color', link: '/foundations/color', img: Paint, caption: 'Color makes our brand stands out, helps create consistency across our products.' },
+    { name: 'Iconography', link: '/foundations/iconography', img: star, caption: 'Icons are visual representations of commands, devices or common actions.' },
+    { name: 'Layout & Grid', link: '/foundations/layout', img: layout, caption: 'Layouts and grid is about positioning of elements on screen to create good experience.' },
+    { name: 'Typography', link: '/foundations/typography', img: typography, caption: 'Typography talks about font type, style, weight, spacing and their use to create a good experience.' },
 ]
 
 

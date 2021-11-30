@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 export const Button1 = ({children, className, link}) => {
     return (
         <Link to={link}>
-        <button className={`px-6 py-3 rounded bg-primary text-white  ${className}`}>
+            <button className={`font-face-hn-li px-6 py-3 rounded bg-primary text-white  ${className}`}>
             {children}
 
         </button>
@@ -14,7 +14,7 @@ export const Button2 = ({children, className, link}) => {
     return (
         <Link to={link}>
 
-        <button className={`px-6 py-3 rounded text-primary border border-primary bg-white  ${className}`}>
+        <button className={`font-face-hn-li font-semibold px-6 py-3 rounded text-primary border border-primary bg-white  ${className}`}>
             {children}
             </button>
             </Link>

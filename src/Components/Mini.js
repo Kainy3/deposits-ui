@@ -1,21 +1,26 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import typography from '../Assets/Foundations/typography.svg'
+
 import { componentData, foundationData } from '../Utils/Data'
 import Caption from './Content/Caption'
 
 
 export const Mini = ({ id, source, title, text, hovered, setHovered }) => {
     return (
-        <div onMouseOver={() => setHovered(true)} onMouseOut={() => setHovered(false)} style={{ width: '450px' }} className={`flex h-60 items-center text-xs rounded justify-center cursor-pointer space-x-3 p-5 shadow bg-white hover:bg-hoverBlue hover:text-white`}>
-            <div className='h-full w-60'>
-                <img className='h-60 w-full ' src={source} alt='' />
-            </div>
-            <div className='my-auto space-y-2'>
-                <div className='font-semibold text-sm capitalize '><h6>{title}</h6></div>
-                <div>{text}</div>
-                <button className={` ${(hovered) ? 'text-white' : 'text-hoverBlue'} `}>Learn More</button>
 
+        <div onMouseOver={() => setHovered(true)} onMouseOut={() => setHovered(false)} style={{width:'500px'}} className={`flex h-72 p-5 text-xs rounded justify-center shadow bg-white hover:bg-hoverBlue hover:text-white`}>
+            <div className='flex items-center p-0 space-x-3 '>
+                <div className='w-60 h-full '>
+                    <img className=' ' src={source} alt='' />
+                </div>
+                <div className='my-auto h-40 flex-1 space-y-3'>
+                    <div className='font-face-hn text-sm capitalize'><h6>{title}</h6></div>
+                    <div className={`w-40 pb-3 ${(hovered) ? 'text-white' : 'text-caption'} `} >  <p>{text}</p> </div>
+
+                    <button className={`font-face-hn text-xs ${(hovered) ? 'text-white' : 'text-hoverBlue font-light'} `}>
+                        <Link to={`/${title.toLowerCase()}`} >Learn More</Link>
+                    </button>
+                </div>
             </div>
 
         </div>
@@ -28,12 +33,12 @@ export const MiniF = () => {
     return (
         <div className='lg:grid grid-cols-4 gap-8'>
             {
-                data.slice(1, data.legth).map((item, index) => {
+                data.slice(1).map((item, index) => {
                     return (
-                        <div key={index} className='h-44 flex md:flex-col shadow py-auto px-2 rounded text-xs items-center'>
-                            <Link to={item.link} className="mx-auto my-auto space-y-2.5 ">
+                        <div key={index} className='h-44 md:flex md:flex-col shadow py-auto px-5 rounded text-xs items-center'>
+                            <Link to={item.link} className="mx-auto my-auto space-y-3 ">
                                 <div>
-                                    <img src={typography} alt="" className="h-full w-max" />
+                                    <img src={item.img} alt="" className="h-full w-max" />
                                 </div>
                                 <div className="capitalize font-semibold text-sm">{item.name}</div>
                                 <Caption className="text-grey-500">{item.caption}</Caption>
@@ -48,7 +53,6 @@ export const MiniF = () => {
 
 export const MiniC = ({ startIndex, stopIndex, indices, indices2, imgClass }) => {
     let data = componentData
-
     return (
         <div className='grid grid-cols-4 gap-8'>
             {

@@ -10,22 +10,22 @@ const Nav = () => {
     let location = useLocation()
 
     return (
-        <nav className=' bg-white h-16 w-full shadow-md flex justify-between px-5'>
+        <nav className=' bg-white h-14 w-full shadow-md flex justify-between font-face-hn-li px-5'>
             {/* left-of-navbar  */}
 
-            <div className='px-5 flex  items-center'>
+            <div className='pl-5 flex  items-center'>
                 <Link to='/' className=''>
                     <img className='' src={Logo} alt='' />
                 </Link>
             </div>
 
             {/* center-of-navbar  */}
-            <div className='m-0 p-0 flex justify-evenly'>
+            <div className='m-0 p-0 -ml-40 flex justify-evenly'>
                 {navHome.map((value, index) => (
                     <Link key={index} className={`h-full flex my-auto  items-center text-gray-500 ${location.pathname.includes(value.link) && '  text-primary border-b-2 border-primary'} hover:text-primary`} to={value.link}>
-                        <div className='flex items-center text-xs  uppercase px-4 mx-2 my-auto h-full '>
+                        <button className='flex items-center text-xs  uppercase px-4 mx-2 my-auto h-full '>
                             {value.name}
-                        </div>
+                        </button>
                     </Link>
                 ))
 

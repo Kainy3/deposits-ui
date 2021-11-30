@@ -7,11 +7,10 @@ import Caption from '../../Components/Content/Caption'
 import image1 from '../../Assets/Foundations/Accessability/Group7455.svg'
 import image2 from '../../Assets/Foundations/Accessability/Group7462.png'
 import image3 from '../../Assets/Foundations/Accessability/Group7462-2.png'
-import image4 from '../../Assets/Foundations/Accessability/Group7466.svg'
-import image5 from '../../Assets/Foundations/Accessability/Group7465.svg'
 import image6 from '../../Assets/Foundations/Accessability/Group7465-2.svg'
 import image7 from '../../Assets/Foundations/Accessability/nathan-dumlao.png'
 import image8 from '../../Assets/Foundations/Accessability/Group7475.png'
+import { Do, Dont } from '../../Components/Content/DoDont'
 
 const Accessibility = () => {
 
@@ -67,14 +66,8 @@ const Accessibility = () => {
                     <Text>Keep content and accessibility text concise. Concise doesn’t mean limited; it means something closer to efficient. Use as few words as possible without losing the meaning. When writing concisely, we make sure every word on the screen has a job. People using screen readers hear every UI element read aloud, so the shorter the text, the faster they can navigate the content. Screen readers can skim more easily and skip irrelevant paragraphs if you keep sentences short and frontload paragraphs with important information.</Text>
                     <br /><br />
                     <div className='flex space-x-5 text-xs'>
-                        <div className='flex-1 bg-red-200 border-red-600 border-b-4 pl-5 pr-3 pb-10 rounded'>
-                            <div className='flex pb-3 pt-4 space-x-1'><img className='h-4 w-4' src={image4} alt="" /> <p className='uppercase font-semibold'>Don't</p></div>
-                            <div><p className='pl-5'>You must log in before you can write a comment</p></div>
-                        </div>
-                        <div className='flex-1 bg-green-200 border-green-600 border-b-4 pl-5 pr-3 pb-10 rounded'>
-                            <div className='flex pb-3 pt-4 space-x-1'><img className='h-4 w-4' src={image5} alt="" /> <p className='uppercase font-semibold'>Do</p></div>
-                            <div><p className='pl-5'>You must log in before you can write a comment</p></div>
-                        </div>
+                        <Dont text='You must log in before you can write a comment' />
+                        <Do text='Log in to comment'/>
                     </div>
                     <br /><br /><br />
                 </section>
