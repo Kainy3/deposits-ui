@@ -38,11 +38,13 @@ const UsageTypo = () => {
                         Typography is the art of arranging letters and text in a way that makes the copy legible, clear, and visually appealing to the reader. Typography involves font style, appearance, and structure, which aims to elicit certain emotions and convey specific messages. In short, typography is what brings the text to life.
                         <br /> <br />
                         Typography is so much more than just choosing beautiful fonts: it’s a vital component of user interface design. Good typography will establish a strong visual hierarchy, provide a graphic balance to the website, and set the product’s overall tone. Typography should guide and inform your users, optimize readability and accessibility, and ensure an excellent user experience.
+                    </Text>
                         <div><img src="" alt="" /></div>
                         <br />
                         <div><img src={typography} alt="" /></div>
                         <br />
-                        <b> Cap-height:</b> The height of the capital letter. <br />
+
+                    <Text>  <b> Cap-height:</b> The height of the capital letter. <br />
                         <b> X-height:</b> The height of lowercase x is as a default value for other, less uniform lowercase letters. <br />
                         <b> Descent:</b> All elements below our x-height. <br />
                         Baseline: The baseline is a flat surface on which our font is sitting. <br />
@@ -56,20 +58,19 @@ const UsageTypo = () => {
                         A typeface is a design style which comprises a myriad of characters of varying sizes and weight, whereas a font is a graphical representation of text character.
                         <br /><br />
                         The default typeface in Swys ui are Circular Std and Hero New.
-                        <div classname='flex'>
-                            <img src="" alt="" />
-                            <img src="" alt="" />
-                        </div>      <br /><br />
-                        <div className='space-x-10 flex'>
-                            <img src={image2} alt="" />
-                            <img src={image1} alt="" />
-                        </div>
-                        <br />
                     </Text>
+                    <div className='flex'>
+                        <img src="" alt="" />
+                        <img src="" alt="" />
+                    </div>      <br /><br />
+                    <div className='space-x-10 flex'>
+                        <img src={image2} alt="" />
+                        <img src={image1} alt="" />
+                    </div>
+                    <br />
                 </section>
 
             </div>
-            br
             <section>
                 <H3>Type scale</H3>
                 <Text>
@@ -96,7 +97,7 @@ const UsageTypo = () => {
                         </div>
                     </div>
                     {tables.map((table, index) => (
-                        <div className={`${isOdd(index) && 'bg-grey_1'} h-14 text-gray-600 text-xs rounded flex w-full justify-evenly`}>
+                        <div key={index} className={`${isOdd(index) && 'bg-grey_1'} h-14 text-gray-600 text-xs rounded flex w-full justify-evenly`}>
                             <div className='w-28 text-black flex items-center'>
                                 <h1 className={`${table.class}`}>{table.element}</h1>
                             </div>

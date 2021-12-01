@@ -31,17 +31,17 @@ export const Mini = ({ id, source, title, text, hovered, setHovered }) => {
 export const MiniF = () => {
     let data = foundationData
     return (
-        <div className='lg:grid grid-cols-4 gap-8'>
+        <div className='lg:grid grid-cols-4 gap-5'>
             {
                 data.slice(1).map((item, index) => {
                     return (
-                        <div key={index} className='h-44 md:flex md:flex-col shadow py-auto px-5 rounded text-xs items-center'>
-                            <Link to={item.link} className="mx-auto my-auto space-y-3 ">
+                        <div key={index} className='h-48 md:flex md:flex-col shadow px-5 rounded text-xs items-center'>
+                            <Link to={item.link} className="mx-auto overflow-hidden my-auto space-y-3 ">
                                 <div>
                                     <img src={item.img} alt="" className="h-full w-max" />
                                 </div>
                                 <div className="capitalize font-semibold text-sm">{item.name}</div>
-                                <Caption className="text-grey-500">{item.caption}</Caption>
+                                <Caption className="text-grey-500 overflow-hidden">{item.caption}</Caption>
                             </Link>
                         </div>
                     )

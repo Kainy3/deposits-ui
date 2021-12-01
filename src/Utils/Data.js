@@ -67,6 +67,7 @@ export const navHome = [
     { name: 'Components', link: '/components' },
 ]
 export const documentData = [
+    {},
     { name: 'Introduction', link: '/documentation' },
     { name: 'License', link: '/documentation/license' },
 ]
