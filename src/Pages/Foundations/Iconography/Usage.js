@@ -65,7 +65,7 @@ const Usage = () => {
                 <br /><br />
                 <div className='flex font-semibold  space-x-5 text-xs'>
                     <div className='flex-1'>
-                        <div className="flex items-center justify-center py-12 bg-grey_1">
+                        <div className="font-face-hn font-medium flex items-center justify-center py-12 bg-grey_1">
                             <div className="flex items-center py-4 px-5  justify-center bg-gray-200 rounded">
                                 <img src={image1} alt="" />
                             </div>
@@ -73,7 +73,7 @@ const Usage = () => {
                         <Dont text='You must log in before you can write a comment' />
                     </div>
                     <div className='flex-1'>
-                        <div className="flex items-center justify-center py-12 bg-grey_1">
+                        <div className="font-face-hn font-medium flex items-center justify-center py-12 bg-grey_1">
                             <div className="flex items-center space-x-2 py-4 px-5  justify-center bg-gray-200 rounded">
                                 <img src={image1} alt="" />
                                 <Caption> Favourite </Caption>
@@ -91,10 +91,10 @@ const Usage = () => {
                 <div className='flex space-x-5 font-semibold text-xs'>
                     <div className='flex-1'>
                         <div className="h-36  rounded flex items-center justify-center bg-grey_1">
-                            <div className="space-y-4 ">
-                                <div className=" items-center flex space-x-2">
+                            <div className="space-y-4 font-face-hn font-medium">
+                                <div className="items-center flex space-x-2">
                                     <img className='' src={image2} alt="" />
-                                    <Caption> Add User </Caption>
+                                    <Caption className=''> Add User </Caption>
                                 </div>
                                 <div className=" items-center flex space-x-2">
                                     <img src={image3} alt="" />
@@ -109,8 +109,8 @@ const Usage = () => {
                         <Dont text='You must log in before you can write a comment' />
                     </div>
                     <div className='flex-1'>
-                        <div className="h-36 rounded flex items-center justify-center space-x-2 bg-grey_1">
-                            <p className="font-medium text-caption text-lg">+</p>
+                        <div className="h-36 font-face-hn font-medium rounded flex items-center justify-center space-x-2 bg-grey_1">
+                            <p className="font-semi-bold text-caption text-lg">+</p>
                             <Caption> Add </Caption>
                         </div>
                         <Do text='Log in to comment' />
@@ -126,6 +126,7 @@ const Usage = () => {
                 <Text>
                     Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum
                 </Text>
+                <br />
                 <div>
                     <H4>Variation</H4>
 

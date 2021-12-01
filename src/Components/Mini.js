@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-
+import {Heading4 as H4 } from '../Components/Content/Heading'
 import { componentData, foundationData } from '../Utils/Data'
 import Caption from './Content/Caption'
 
@@ -33,14 +33,14 @@ export const MiniF = () => {
     return (
         <div className='lg:grid grid-cols-4 gap-5'>
             {
-                data.slice(1).map((item, index) => {
+                data?.slice(1).map((item, index) => {
                     return (
                         <div key={index} className='h-48 md:flex md:flex-col shadow px-5 rounded text-xs items-center'>
                             <Link to={item.link} className="mx-auto overflow-hidden my-auto space-y-3 ">
                                 <div>
                                     <img src={item.img} alt="" className="h-full w-max" />
                                 </div>
-                                <div className="capitalize font-semibold text-sm">{item.name}</div>
+                                <H4 small className="capitalize">{item.name}</H4>
                                 <Caption className="text-grey-500 overflow-hidden">{item.caption}</Caption>
                             </Link>
                         </div>
@@ -56,7 +56,7 @@ export const MiniC = ({ startIndex, stopIndex, indices, indices2, imgClass }) =>
     return (
         <div className='grid grid-cols-4 gap-8'>
             {
-                data.slice(startIndex, stopIndex).map((item, index) => {
+                data?.slice(startIndex, stopIndex).map((item, index) => {
                     return (
                         <div key={index} className='h-full flex flex-col shadow py-4 px-4 rounded items-center'>
                             {
@@ -66,7 +66,7 @@ export const MiniC = ({ startIndex, stopIndex, indices, indices2, imgClass }) =>
                                             <img src={item.img} alt="" className={`w-32 ${imgClass}`} />
                                         </div>
                                         <div className="font-face-hn capitalize font-semibold ">{item.name}</div>
-                                        <Caption small className="">{item.caption}</Caption>
+                                        <Caption small>{item.caption}</Caption>
                                     </Link>
                                 ) : (
 
@@ -75,7 +75,7 @@ export const MiniC = ({ startIndex, stopIndex, indices, indices2, imgClass }) =>
                                             <img src={item.img} alt="" className="h-full w-32 mx-auto" />
                                         </div>
                                         <div className="font-face-hn capitalize font-semibold ">{item.name}</div>
-                                        <Caption small className="">{item.caption}</Caption>
+                                        <Caption small >{item.caption}</Caption>
                                     </Link>
                                 )
                             }

@@ -7,7 +7,7 @@ import Usage from './Usage'
 const Iconography = () => {
     const [selected, setSelected] = useState(1)
     return (
-        <div>
+        <div className='-mt-12'>
             {/* <Header searchHidden imgHidden smallHeader title='Iconography' caption='The habitual elementary units of our design system. The elements that gets you started.' /> */}
 
             <div className='px-12 mb-14'>

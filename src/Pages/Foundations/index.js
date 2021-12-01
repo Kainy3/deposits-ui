@@ -74,12 +74,15 @@ const Foundations = () => {
                         {(location.pathname === '/foundations/layout' || location.pathname === '/foundations/layout/') && <LayoutGrid />}
                     </div>
 
+                </div>
+                <div className=''>
 
-                    {/* {(location.pathname === '/foundations' || location.pathname === '/foundations/') ? <ContentNav nestedHeadings={nestedHeadings} /> : <ContentNav nestedHeadings={nestedHeadings} />} */}
+                {
+                    (location.pathname !== '/foundations' || location.pathname === '/foundations/') &&
+                        <ContentNav nestedHeadings={nestedHeadings} />
+                    }
                 </div>
-                <div className='pt-5'>
-                {(location.pathname !== '/foundations' || location.pathname === '/foundations/') && <ContentNav nestedHeadings={nestedHeadings} />}
-                </div>
+
             </div>
         </Layout>
     )

@@ -1,19 +1,7 @@
 
 const ContentNav = ({ hidden, selected, nestedHeadings }) => {
-
-    // const content = [
-    //     { name: 'Introduction' },
-    //     { name: 'Subtitle' },
-    //     { name: 'Subtitle' },
-    //     { name: 'Subtitle' },
-    //     { name: 'Subtitle' },
-    //     { name: 'Subtitle' },
-    // ]
-
-
-
     return (
-        <nav aria-label="Table of Contents" style={{}} className={`text-xs w-52 max-h-screen overflow-y-auto sticky top-6 `}>
+        <nav aria-label="Table of Contents" style={{}} className={`text-xs w-52 max-h-screen overflow-y-auto sticky top-6 mt-12 `}>
             <h5 className="font-semibold uppercase px-5 mb-3">Contents</h5>
             <div className=" p-0 border-gray-200 text-gray-500">
                 {nestedHeadings?.map((item, index) =>

@@ -6,18 +6,15 @@ import Text from '../../Components/Content/Text'
 import Caption from '../../Components/Content/Caption'
 import image1 from '../../Assets/Foundations/Accessability/Group7455.svg'
 import image2 from '../../Assets/Foundations/Accessability/Group7462.png'
-import image3 from '../../Assets/Foundations/Accessability/Group7462-2.png'
+import image3 from '../../Assets/Foundations/Accessability/Group7463.png'
 import image6 from '../../Assets/Foundations/Accessability/Group7465-2.svg'
 import image7 from '../../Assets/Foundations/Accessability/nathan-dumlao.png'
 import image8 from '../../Assets/Foundations/Accessability/Group7475.png'
 import { Do, Dont } from '../../Components/Content/DoDont'
 
 const Accessibility = () => {
-
     return (
         <div>
-            {/* {(location.pathname === '/foundations/accessibility' || location.pathname === '/foundations/accesibility/') && <Header searchHidden imgHidden smallHeader title='Accessibility' caption='The habitual elementary units of our design system. The elements that gets you started.' />} */}
-
             <div className='py-12 px-14 pb-28'>
                 <H3 id='introduction' className='text-2xl mb-4 font-semibold'>Introduction</H3>
                 <Text>
@@ -67,7 +64,7 @@ const Accessibility = () => {
                     <br /><br />
                     <div className='flex space-x-5 text-xs'>
                         <Dont text='You must log in before you can write a comment' />
-                        <Do text='Log in to comment'/>
+                        <Do text='Log in to comment' />
                     </div>
                     <br /><br /><br />
                 </section>

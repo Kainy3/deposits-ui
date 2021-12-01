@@ -29,7 +29,7 @@ const Footer = () => {
 
             <section className='w-10/12 mt-10 mx-auto pt-10 border-t border-gray-600 text-center'>
                 <p className=''>
-                    © 2021 Deposists.com All rights reserved.
+                    © 2021 Deposits.com All rights reserved.
                 </p>
             </section>
         </div>
