@@ -23,7 +23,7 @@ const SideBar = ({ title, }) => {
                 {data?.slice(1).map((item, index) => (
                     <Link key={index} to={item.link}>
                         < div className={`font-face-hn-li text-sm capitalize pl-10 h-8 flex items-center cursor-pointer text-gray-600 ${((location.pathname
-                            === item.link)) && 'bg-blue-100 border-r-2 border-primary'}`}>
+                            === item.link) && (data !== componentData) ) && 'bg-blue-100 border-r-2 border-primary'}`}>
                             {item.name}
                         </div>
                     </Link>
