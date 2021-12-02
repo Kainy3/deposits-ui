@@ -10,7 +10,6 @@ const ContentNav = ({ hidden, selected, nestedHeadings }) => {
                             {item.title}
                         </p>
                     </div>
-
                 )}
             </div>
         </nav>

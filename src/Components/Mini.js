@@ -7,7 +7,8 @@ import Caption from './Content/Caption'
 
 export const Mini = ({ id, source, title, text, hovered, setHovered }) => {
     return (
-
+  <Link to={`/${title.toLowerCase()}`} >
+      
         <div onMouseOver={() => setHovered(true)} onMouseOut={() => setHovered(false)} style={{width:'500px'}} className={`flex h-72 p-5 text-xs rounded justify-center shadow bg-white hover:bg-hoverBlue hover:text-white`}>
             <div className='flex items-center p-0 space-x-3 '>
                 <div className='w-60 h-full '>
@@ -18,12 +19,13 @@ export const Mini = ({ id, source, title, text, hovered, setHovered }) => {
                     <div className={`w-40 pb-3 ${(hovered) ? 'text-white' : 'text-caption'} `} >  <p>{text}</p> </div>
 
                     <button className={`font-face-hn text-xs ${(hovered) ? 'text-white' : 'text-hoverBlue font-light'} `}>
-                        <Link to={`/${title.toLowerCase()}`} >Learn More</Link>
+                      Learn More
                     </button>
                 </div>
             </div>
 
         </div>
+        </Link >
     )
 }
 

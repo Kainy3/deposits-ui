@@ -1,18 +1,14 @@
 import React from 'react'
 import { Link, useLocation } from 'react-router-dom'
 import { documentData, foundationData, componentData } from "../../Utils/Data"
-// import Documentation from "../../Documentation/index"
-// import Foundations from "../../Foundations/index"
-// import Components from "../../Components/index"
 
 const SideBar = ({ title, }) => {
-
     const location = useLocation()
     let data = []
-    // let page = Documentation
     location.pathname.includes('documentation') && ((data = documentData))
     location.pathname.includes('foundations') && ((data = foundationData))
     location.pathname.includes('components') && ((data = componentData))
+
     return (
         <nav className=" font-face-hn sticky px-0 pt-2 pb-10 overflow-auto max-h-screen w-60 top-0">
 
@@ -35,4 +31,3 @@ const SideBar = ({ title, }) => {
 }
 
 export default SideBar
-    // && (page = Components

@@ -7,7 +7,7 @@ import { useLocation } from 'react-router'
 const Index = ({ style, sideData, sideTitle, className, classname, children }) => {
     let location = useLocation()
     return (
-        <div style={style} className={`${classname}`}>
+        <div style={style} className={`${classname} min-h-screen`}>
             <Nav />
 
             <div className='flex'>
