@@ -22,7 +22,7 @@ const Home = () => {
                     <div className='text-3xl font-semibold font-face-hn text-header'>
                         Design System For Fintech Solutions.
                     </div>
-                    <div><Caption>Swys UI is built on the belief that you can never predict all future fintech requirements, web or mobile, only prepare for it. Available in React and Vue frameworks.</Caption></div>
+                    <div><Caption>Deposits UI is built on the belief that you can never predict all future fintech requirements, web or mobile, only prepare for it. Available in React and Vue frameworks.</Caption></div>
                     <div className='flex space-x-5'>
                         <div><Button1 link='/components'>Components</Button1> </div>
                         <div><Button2 link='/documentation'>Documentation</Button2></div>
