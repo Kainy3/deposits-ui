@@ -44,7 +44,7 @@ const Foundations = () => {
 
             const newNestedHeadings = getNestedHeadings(headingElements);
             setNestedHeadings(newNestedHeadings);
-        }, []);
+        }, [location.pathname]);
 
         return { nestedHeadings };
     };
