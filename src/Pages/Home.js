@@ -18,18 +18,18 @@ const Home = () => {
         <Layout className='mb-20' >
 
             <section className="md:flex w-8/12 mx-auto mt-10 mb-14 justify-center space-x-20">
-                <div className='space-y-5 my-auto'>
+                <div className='space-y-5 my-auto flex-1 '>
                     <div className='text-3xl font-semibold font-face-hn text-header'>
                         Design System For Fintech Solutions.
                     </div>
-                    <div><Caption>Deposits UI is built on the belief that you can never predict all future fintech requirements, web or mobile, only prepare for it. Available in React and Vue frameworks.</Caption></div>
+                    <div><Caption>Deposits UI Kit is built on the belief that you can never predict all future fintech requirements, web or mobile, only prepare for it. Available in React and Vue frameworks.</Caption></div>
                     <div className='flex space-x-5'>
                         <div><Button1 link='/components'>Components</Button1> </div>
                         <div><Button2 link='/documentation'>Documentation</Button2></div>
                     </div>
                 </div>
-                <div className='h-full w-full'>
-                    <img className='h-full' src={HomeImgs[0].img} alt={HomeImgs[0].alt} />
+                <div className='h-full w-max '>
+                    <img className='h-full w-full' src={HomeImgs[0].img} alt={HomeImgs[0].alt} />
                 </div>
             </section>
 

@@ -3,8 +3,6 @@ import Logo from '../../Assets/General/deposits.svg'
 import GitLab from '../../Assets/General/gitLab.svg'
 import { navHome } from '../../Utils/Data'
 
-// import { useState } from "react"
-// import Data from '../../Utils/Data'
 
 const Nav = () => {
     let location = useLocation()
@@ -20,7 +18,7 @@ const Nav = () => {
             </div>
 
             {/* center-of-navbar  */}
-            <div className='m-0 p-0 -ml-40 flex justify-evenly'>
+            <div className='m-0 p-0 flex justify-evenly'>
                 {navHome.map((value, index) => (
                     <Link key={index} className={`h-full flex my-auto  items-center text-gray-500 ${location.pathname.includes(value.link) && 'text-primary border-b-2 border-primary'} hover:text-primary`} to={value.link}>
                         <p className='flex items-center text-xs  uppercase px-4 mx-2 my-auto h-full '>

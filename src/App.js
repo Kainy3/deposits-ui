@@ -4,7 +4,7 @@ import AppRouter from './Router';
 
 function App() {
   return (
-    <div className="text-sm font-face-c ">
+    <div className="text-sm font-sans">
       <AppRouter />
     </div>
   );

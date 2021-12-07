@@ -44,8 +44,8 @@ const Foundations = () => {
 
             const newNestedHeadings = getNestedHeadings(headingElements);
             setNestedHeadings(newNestedHeadings);
+            // eslint-disable-next-line
         }, [location.pathname]);
-
         return { nestedHeadings };
     };
     const { nestedHeadings } = useHeadingsData();

@@ -27,13 +27,21 @@ code {
     }
     
     @font-face {
-    font-family: 'Hero New Regular';
-    font-style: normal;
-    font-weight: normal;
-    src: local('Hero New Regular'), url('./fonts/hero-new/Hero New Regular.woff') format('woff');
+      font-family: 'Hero New Regular';
+      font-style: normal;
+      font-weight: normal;
+      src: local('Hero New Regular'), url('./fonts/hero-new/Hero New Regular.woff') format('woff');
     }
-    
+        
+        @font-face {
+        font-family: 'Hero New Light';
+        font-style: normal;
+        font-weight: normal;
+        src: local('Hero New Light'), url('./fonts/hero-new/Hero New Light.woff') format('woff');
+        }
+        
 
+    /* 
     @font-face {
     font-family: 'Hero New Regular Italic';
     font-style: normal;
@@ -41,7 +49,6 @@ code {
     src: local('Hero New Regular Italic'), url('./fonts/hero-new/Hero New Regular Italic.woff') format('woff');
     }
     
-
     @font-face {
     font-family: 'Hero New Hairline';
     font-style: normal;
@@ -87,14 +94,6 @@ code {
     font-style: normal;
     font-weight: normal;
     src: local('Hero New UltraLight Italic'), url('./fonts/hero-new/Hero New UltraLight Italic.woff') format('woff');
-    }
-    
-
-    @font-face {
-    font-family: 'Hero New Light';
-    font-style: normal;
-    font-weight: normal;
-    src: local('Hero New Light'), url('./fonts/hero-new/Hero New Light.woff') format('woff');
     }
     
 
@@ -183,4 +182,4 @@ code {
     font-style: normal;
     font-weight: normal;
     src: local('Hero New Super Italic'), url('./fonts/hero-new/Hero New Super Italic.woff') format('woff');
-    }
+    } */
